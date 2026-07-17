@@ -20,23 +20,21 @@ Demonstrate understanding of AWS basics and Free Tier usage by answering the fol
 
 #### Question 1 — What is an AWS account, and why do you need it at this stage?
 
-An AWS account is account for using Amazon Web Services (AWS). It gives you 
-access to cloud services like virtual servers, storage, and databases.
+An AWS account provides access to Amazon Web Services, allowing me to create, configure, and manage cloud resources such as servers, storage, and databases. At this stage, I need an AWS account to gain practical hands-on experience with cloud technologies, complete DevOps Micro Internship assignments, and develop real-world skills in deploying and managing applications in the cloud. 
+
 ---
 
 #### Question 2 — What is AWS Free Tier, and how long does it last?
 
-The AWS Free Tier is a program that allows new AWS users to use certain AWS 
-services for free within specific usage limits and 6month free services.
+AWS Free Tier allows new users to explore and practice using AWS services with free usage limits, helping them learn cloud technologies without immediate costs. It provides access to popular services for learning, testing, and building small projects. The Free Tier benefits vary by service, with many offers available for 12 months after creating a new AWS account, while some services include ongoing free usage limits 
+
 ---
 
 #### Question 3 — Name three AWS Free Tier services and their free usage limits.
 
-Amazon EC2 – Up to 750 hours/month of free usage for eligible t2.micro or t3.
-micro virtual servers (for the first 12 months).
-Amazon S3 – Up to 5 GB of Standard storage, 20,000 GET requests, and 2,000 
-PUT requests per month (for the first 12 months).
-Amazon RDS – Up to 750 hours/month of free usage for eligible database instances (such as db.t3.micro) plus 20 GB of storage (for the first 12 months).
+**Amazon S3**: Up to 5 GB of Standard Storage with limited requests eachmonth.
+**Amazon DynamoDB**: Up to 25 GB of storage and limited read/write capacity.
+**AWS Lambda**: 1 million free requests and 400,000 GB-seconds of compute time per month.
 
 ---
 
