@@ -20,7 +20,7 @@ Create the required `.claude/skills/` directory structure for all skills.
 
 #### Screenshot 1 — VS Code sidebar showing `.claude/skills/` folder with all 4 subfolders visible
 
-![aws-acc-proof](./screenshots/task16.png)
+![aws-acc-proof](./screenshots/task18.png)
 
 ---
 
@@ -34,7 +34,7 @@ Place all required skill files into their correct directories and verify their c
 
 #### Screenshot 2 — `.claude/skills/scaffold-terraform/` open in VS Code showing both `SKILL.md` and `template-spec.md`
 
-![aws-acc-proof](./screenshots/task16.png)
+![aws-acc-proof](./screenshots/task19.png)
 
 ---
 
