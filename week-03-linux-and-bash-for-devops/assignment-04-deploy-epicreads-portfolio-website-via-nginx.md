@@ -120,13 +120,14 @@ Add your screenshot here.
 
 Paste your LinkedIn post URL here:
 
-`Add your URL here`
+`https://www.linkedin.com/posts/workwithneha_dmibypravinmishra-agenticai-devops-ugcPost-7484086779248279552-TTAR/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADVmLRoB9dJ70xtJ1M6sDVbSBOiVTmQDql0`
+=======
 
 ---
 
 #### Screenshot — Published LinkedIn post showing the live website with your Full Name in the footer
 
-Add your screenshot here.
+![linkedin](./screenshots/SC128.png)
 
 ---
 
