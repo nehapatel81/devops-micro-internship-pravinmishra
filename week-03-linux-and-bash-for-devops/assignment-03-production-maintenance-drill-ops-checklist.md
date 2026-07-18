@@ -123,13 +123,13 @@ Verify real traffic flow and analyze logs to understand system behavior and erro
 
 #### Screenshot 2 — Output of `sudo tail -n 30 /var/log/nginx/error.log`
 
-Add your screenshot here.
+![tail](./screenshots/SC62.png)
 
 ---
 
 #### Screenshot 3 — Output of `sudo journalctl -u nginx --no-pager -n 50`
 
-Add your screenshot here.
+![journa](./screenshots/SC63.png)
 
 ---
 
@@ -142,19 +142,19 @@ Answer the following in your own words:
 - If yes, mention 1–2 example error lines from the logs and explain what each one means in simple terms.
 - If no, explain what it means if the error log is empty or shows no recent errors during your check.
 
-Write your answer here.
+No, I did not find any errors in the Nginx error logs during my analysis.The logs were empty or did not contain any recent error entries, indicating the server was running normally.Although this does not guarantee future issues, it confirms no problems were recorded during the check.
 
 ---
 
 **2. If there were no errors, what does that indicate about the system?**
 
-Write your answer here.
+It indicates that the application and Nginx were working as expected during the monitoring period. Requests were processed successfully, and no server-side errors were recorded. Regular log monitoring is still important to identify and troubleshoot any future issues.Write your answer here.
 
 ---
 
 **3. Based on the access logs, were your curl requests visible in the log entries? What does that prove about traffic flow?**
 
-Write your answer here.
+Yes, my curl requests were visible in the Nginx access logs.This confirmed that the requests reached the web server and were successfully processed by Nginx.It also verified that the network connection, Nginx configuration, and request logging were working correctly.
 
 ---
 
@@ -168,25 +168,25 @@ Assess server capacity and detect potential performance or failure risks.
 
 #### Screenshot 1 — Output of `uptime`
 
-Add your screenshot here.
+![Uptime](./screenshots/SC64.png)
 
 ---
 
 #### Screenshot 2 — Output of `free -h`
 
-Add your screenshot here.
+![free](./screenshots/SC65.png)
 
 ---
 
 #### Screenshot 3 — Output of `df -h`
 
-Add your screenshot here.
+![df](./screenshots/SC66.png)
 
 ---
 
 #### Screenshot 4 — Output of `sudo du -sh /var/* | sort -h`
 
-Add your screenshot here.
+![sort](./screenshots/SC67.png)
 
 ---
 
