@@ -275,19 +275,19 @@ Answer the following in your own words:
 
 **1. What caused the configuration failure?**
 
-
+The configuration failure occurred because I removed the semicolon (;) from the try_files $uri /index.html; directive.This created a syntax error, preventing Nginx from validating the configuration.As a result, Nginx could not restart until the error was fixed.
 
 ---
 
 **2. How did you fix the issue?**
 
-
+I added the missing semicolon back to the try_files directive and saved the configuration file.I verified the configuration using sudo nginx -t and then restarted the Nginx service.Finally, I confirmed the application was working by receiving an HTTP 200 response.
 
 ---
 
 **3. How can you avoid this kind of issue in real production systems?**
 
-
+I would always validate the configuration with nginx -t before restarting or reloading Nginx. I would also review configuration changes carefully and use version control to track modifications.Testing changes in a staging environment helps catch errors before deploying to production.
 
 ---
 
