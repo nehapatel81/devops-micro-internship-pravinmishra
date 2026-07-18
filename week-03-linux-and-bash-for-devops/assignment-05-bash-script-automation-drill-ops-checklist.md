@@ -416,13 +416,14 @@ The script uses variables to store values, arrays to hold multiple items, loops 
 
 Paste your LinkedIn post URL here:
 
-`Add your URL here`
+`https://www.linkedin.com/posts/workwithneha_dmibypravinmishra-agenticai-devops-ugcPost-7484317243317567488-wGgI/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADVmLRoB9dJ70xtJ1M6sDVbSBOiVTmQDql0`
+=======
 
 ---
 
 #### Screenshot — Published LinkedIn post
 
-Add your screenshot here.
+![linkedin](./screenshots/SC129.png)
 
 ---
 
