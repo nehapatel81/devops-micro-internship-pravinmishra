@@ -60,7 +60,7 @@ Execute the `/scaffold-terraform` skill to generate a full Terraform infrastruct
 
 #### Screenshot 5 — VS Code sidebar showing the `terraform/` folder with all generated files inside
 
-Add your screenshot here.
+![aws-acc-proof](./screenshots/task24.png)
 
 ---
 
@@ -74,7 +74,7 @@ Initialize Terraform and execute the `/tf-plan` skill to observe plan execution 
 
 #### Screenshot 6 — Claude's `/tf-plan` response showing it ran the command and analyzed the result (pass or auth error both count)
 
-Add your screenshot here.
+![aws-acc-proof](./screenshots/task23.png)
 
 ---
 
@@ -90,27 +90,29 @@ Add your screenshot here.
 
 Paste your forked repository URL here:
 
-`Add your URL here`
+`https://github.com/nehapatel81/Ultimate-Agentic-DevOps-with-Claude-Code`
+======
 
 ## LinkedIn post URL
 
 Paste your forked repository URL here:
 
-`Add your URL here`
+`https://www.linkedin.com/posts/workwithneha_join-the-dmi-devops-micro-internship-share-7481444364150284290-vk51/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADVmLRoB9dJ70xtJ1M6sDVbSBOiVTmQDql0`
+======
 ---
 
 # Completion Checklist
 
-- [ ] `.claude/skills/` folder created with all 4 skill folders
-- [ ] All skill files placed correctly
-- [ ] `tf-plan/SKILL.md` shows correct `allowed-tools` restrictions
-- [ ] `/scaffold-terraform` executed successfully
-- [ ] Terraform files generated inside `terraform/` folder
-- [ ] `terraform init` executed successfully
-- [ ] `/tf-plan` executed and output analyzed by Claude
-- [ ] All required screenshots added
-- [ ] GitHub repository URL included
-- [ ] LinkedIn post URL included
+- [x] `.claude/skills/` folder created with all 4 skill folders
+- [x] All skill files placed correctly
+- [x] `tf-plan/SKILL.md` shows correct `allowed-tools` restrictions
+- [x] `/scaffold-terraform` executed successfully
+- [x] Terraform files generated inside `terraform/` folder
+- [x] `terraform init` executed successfully
+- [x] `/tf-plan` executed and output analyzed by Claude
+- [x] All required screenshots added
+- [x] GitHub repository URL included
+- [x] LinkedIn post URL included
 
 ---
 
