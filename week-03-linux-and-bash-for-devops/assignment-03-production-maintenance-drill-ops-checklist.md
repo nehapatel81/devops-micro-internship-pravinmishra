@@ -196,13 +196,14 @@ Answer the following in your own words:
 
 **1. Which resource looks most critical right now? (CPU/load, memory, or disk) Explain why.**
 
-Write your answer here.
+Currently, none of the system resources appear to be in a critical state.However, I would monitor disk usage closely because the root partition is around 60% utilized.Disk space can increase over time due to logs, application data, and updates, so regular monitoring helps prevent storage issues.
 
 ---
 
 **2. What happens if disk becomes 100% full in a production server?**
 
-Write your answer here.
+If the disk reaches 100% capacity, applications may fail to write files, logs may stop recording, and deployments or updates can fail.
+Some services may crash or fail to start, causing downtime and making troubleshooting difficult.Regular disk monitoring and cleanup help prevent these production issues.
 
 ---
 
@@ -216,7 +217,7 @@ Ensure the correct React build is deployed and Nginx is serving it properly.
 
 #### Screenshot 1 — Output of `ls -lah /var/www/html | head -n 20`
 
-Add your screenshot here.
+![head](./screenshots/SC68.png)
 
 ---
 
