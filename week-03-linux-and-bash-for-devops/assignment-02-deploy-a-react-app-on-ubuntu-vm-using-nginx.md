@@ -142,13 +142,15 @@ Verify the React application is publicly accessible via the server's public IP.
 
 Paste your LinkedIn post URL here:
 
-`Add your URL here`
+`<<<<<<< HEAD:week-03-linux-for-devops/assignment-02-deploy-a-react-app-on-ubuntu-vm-using-nginx.md
+`https://www.linkedin.com/posts/workwithneha_dmibypravinmishra-agenticai-devops-share-7482827250896199680-yr8l/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADVmLRoB9dJ70xtJ1M6sDVbSBOiVTmQDql0`
+=======
 
 ---
 
 #### Screenshot — LinkedIn post showing the deployed application
 
-Add your screenshot here.
+![linkedin-post](./screenshots/SC125.png)
 
 ---
 
@@ -162,17 +164,17 @@ Add your screenshot here.
 
 # Completion Checklist
 
-- [ ] Node.js and npm installed and verified (Screenshot 1)
-- [ ] Nginx installed and running (Screenshot 2)
-- [ ] Repository cloned and files verified (Screenshot 3)
-- [ ] App.js updated with full name and date (Screenshot 4)
-- [ ] Production build generated (Screenshot 5)
-- [ ] Build files deployed to Nginx web root (Screenshot 6)
-- [ ] Nginx configured and active (Screenshots 7 & 8)
-- [ ] Public IP retrieved (Screenshot 9)
-- [ ] React app accessible in browser with personal details visible (Screenshot 10)
-- [ ] LinkedIn post published and URL submitted
-- [ ] No sensitive data exposed
+- [x] Node.js and npm installed and verified (Screenshot 1)
+- [x] Nginx installed and running (Screenshot 2)
+- [x] Repository cloned and files verified (Screenshot 3)
+- [x] App.js updated with full name and date (Screenshot 4)
+- [x] Production build generated (Screenshot 5)
+- [x] Build files deployed to Nginx web root (Screenshot 6)
+- [x] Nginx configured and active (Screenshots 7 & 8)
+- [x] Public IP retrieved (Screenshot 9)
+- [x] React app accessible in browser with personal details visible (Screenshot 10)
+- [x] LinkedIn post published and URL submitted
+- [x] No sensitive data exposed
 
 ---
 
