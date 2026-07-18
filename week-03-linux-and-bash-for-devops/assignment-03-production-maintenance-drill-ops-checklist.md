@@ -20,25 +20,25 @@ Verify that the deployed React application is reachable from the browser and con
 
 #### Screenshot 1 — Browser showing the React app with your Full Name visible on the UI
 
-Add your screenshot here.
+![React App](./screenshots/SC45.png)
 
 ---
 
 #### Screenshot 2 — Output of `ip a`
 
-Add your screenshot here.
+![ip](./screenshots/SC46.png)
 
 ---
 
 #### Screenshot 3 — Output of `sudo ss -tulpen`
 
-Add your screenshot here.
+![tulpen](./screenshots/SC50.png)
 
 ---
 
 #### Screenshot 4 — Output of `sudo ufw status`
 
-Add your screenshot here.
+![status](./screenshots/SC51.png)
 
 ---
 
@@ -48,19 +48,20 @@ Answer the following in your own words:
 
 **1. What proves Nginx is listening on 0.0.0.0:80?**
 
-Write your answer here.
+The output shows that Nginx is listening on 0.0.0.0:80 with the LISTEN state.This means the web server is accepting HTTP requests from all network interfaces.It confirms that users can access the React application through the server’s public IP address.
+
 
 ---
 
 **2. What proves SSH is active on port 22?**
 
-Write your answer here.
+The output of sudo ss -tulpen shows sshd listening on port 22 with the LISTEN state.This confirms that the SSH service is running and accepting connections.It allows secure remote access to the server for administration.
 
 ---
 
 **3. Did you find any unexpected open ports? Explain briefly.**
 
-Write your answer here.
+No, I did not find any unexpected open ports on the server. The server was only listening on required ports, such as 22 for SSH and 80 for HTTP (Nginx).Keeping only necessary ports open helps reduce security risks and follows good production practices.
 
 ---
 
@@ -74,19 +75,19 @@ Verify that Nginx is properly installed, running, enabled at boot, and safely co
 
 #### Screenshot 1 — Output of `systemctl status nginx --no-pager`
 
-Add your screenshot here.
+![nginx status](./screenshots/SC52.png)
 
 ---
 
 #### Screenshot 2 — Output of `sudo nginx -t`
 
-Add your screenshot here.
+![sudo nginx](./screenshots/SC54.png)
 
 ---
 
 #### Screenshot 3 — Output of `sudo ss -lptn '( sport = :80 )'`
 
-Add your screenshot here.
+![sudo ss](./screenshots/SC56.png)
 
 ---
 
@@ -96,13 +97,13 @@ Answer the following in your own words:
 
 **1. What happens if Nginx fails to restart in production?**
 
-Write your answer here.
+If Nginx fails to restart, the website may become unavailable, and users maysee errors such as 502 Bad Gateway or Connection Refused.This can cause downtime and negatively impact the user experience.Using nginx -t before restarting helps verify the configuration and prevent service failures.
 
 ---
 
 **2. What's your basic rollback plan?**
 
-Write your answer here.
+My first step would be to identify the recent change and restore the last working Nginx configuration.I would then validate the configuration using nginx -t and restart the Nginx service.If the issue continues, I would restore the previous application or server backup to bring the website back online quickly.
 
 ---
 
@@ -116,7 +117,7 @@ Verify real traffic flow and analyze logs to understand system behavior and erro
 
 #### Screenshot 1 — Output of `sudo tail -n 30 /var/log/nginx/access.log`
 
-Add your screenshot here.
+![sudo tail](./screenshots/SC61.png)
 
 ---
 
