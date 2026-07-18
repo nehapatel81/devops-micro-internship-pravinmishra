@@ -32,9 +32,9 @@ AWS Free Tier allows new users to explore and practice using AWS services with f
 
 #### Question 3 — Name three AWS Free Tier services and their free usage limits.
 
-**Amazon S3**: Up to 5 GB of Standard Storage with limited requests eachmonth.
-**Amazon DynamoDB**: Up to 25 GB of storage and limited read/write capacity.
-**AWS Lambda**: 1 million free requests and 400,000 GB-seconds of compute time per month.
+- **Amazon S3**: Up to 5 GB of Standard Storage with limited requests each    month.
+- **Amazon DynamoDB**: Up to 25 GB of storage and limited read/write capacity.
+- **AWS Lambda**: 1 million free requests and 400,000 GB-seconds of compute time per month.
 
 ---
 
