@@ -382,6 +382,7 @@ Unused cloud resources can continue to generate costs even when they are not in 
 Paste your LinkedIn post URL here:
 
 `https://www.linkedin.com/posts/workwithneha_dmibypravinmishra-agenticai-devops-share-7484080534269214720-QUXT/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADVmLRoB9dJ70xtJ1M6sDVbSBOiVTmQDql0`
+=======
 
 ---
 
