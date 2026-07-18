@@ -411,7 +411,7 @@ Paste your LinkedIn post URL here:
 - [x] Task 8: Security & Reliability Notes answered
 - [x] LinkedIn post published and URL submitted
 - [x] Full Name visible in all required screenshots
-- [x ] No sensitive data exposed
+- [x] No sensitive data exposed
 
 ---
 
