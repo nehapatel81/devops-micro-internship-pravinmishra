@@ -223,13 +223,13 @@ Ensure the correct React build is deployed and Nginx is serving it properly.
 
 #### Screenshot 2 — Output of `grep -R "Deployed by" -n /var/www/html 2>/dev/null | head`
 
-Add your screenshot here.
+![deployed](./screenshots/SC69.png)
 
 ---
 
 #### Screenshot 3 — Output of `grep -n "try_files" /etc/nginx/sites-available/default`
 
-Add your screenshot here.
+![tryfiles](./screenshots/SC70.png)
 
 ---
 
@@ -239,7 +239,7 @@ Answer the following in your own words:
 
 **1. How do you confirm that the correct version of the application is deployed?**
 
-Write your answer here.
+I confirmed the deployment by checking the /var/www/html directory and verifying that the React build files, including index.html and the static folder, were present.I used the grep command to confirm that my personalized changes were included in the deployed build.Finally, I accessed the application using the EC2 public IP and verified that Nginx was serving the correct updated version.
 
 ---
 
