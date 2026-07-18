@@ -33,7 +33,7 @@ You will reuse this in later weeks. So do it properly once.
 
 ## Answer
 
-Add your answer here...
+I’ve learned that consistency matters more than motivation or talent. Many people believe success comes from big opportunities, natural ability, or perfect timing. But through my own journey, I’ve realized that real growth is often built quietly  through small efforts repeated every day. In tech, every line of code you write, every problem you solve, and every new concept you learn adds up over time. Progress may feel slow sometimes, and the results may not be visible immediately, but those small steps create a strong foundation. People often underestimate the power of “boring” consistency. For me, it’s one of the biggest advantages in building a long-term career and becoming better every day. 
 
 ---
 
@@ -55,11 +55,11 @@ Write each truth in this format:
 
 ### Truth
 
-Add your answer here...
+Consistent daily learning creates more growth than occasional intensive effort.
 
 ### Evidence from my life
 
-Add your answer here...
+When I started learning web development and IT support, I realized that growth doesn’t always come from studying for hours at once.I focused on showing up consistently practicing a little every day, exploring new concepts, and applying what I learned.Over time, those small steps added up. I became more comfortable solving problems, understanding technology, and handling real-world tasks and projects with more confidence.This journey taught me that consistency, patience, and continuous learning can create meaningful progress. 
 
 ---
 
@@ -67,11 +67,11 @@ Add your answer here...
 
 ### Truth
 
-Add your answer here...
+Hands-on projects teach more than theory alone.
 
 ### Evidence from my life
 
-Add your answer here...
+When I started my journey in tech, I realized that learning doesn’t happen only by watching tutorials — it happens when you build, break, fix, and try again. Whenever I worked on real projects using HTML, CSS, JavaScript, and backend technologies, concepts started making more sense.Every error I faced, every bug I solved, and every challenge during deployment became a lesson that stayed with me.Building real applications gave me confidence and helped me grow beyond theory. It reminded me that the best learning comes from hands-on experience, curiosity, and the courage to keep improving.
 
 ---
 
@@ -79,11 +79,12 @@ Add your answer here...
 
 ### Truth
 
-Add your answer here...
+Networking and communication matter as much as technical skills.
 
 ### Evidence from my life
 
-Add your answer here...
+When I moved to Canada, I came with dreams, curiosity, and a lot of things to learn. Starting fresh in a new country wasn’t just about finding opportunities — it was about understanding a new environment, building connections, and growing step by step. Moving to a new country teaches me that growth comes from people, experiences, and being open to learning.
+I learned that one conversation can change your direction. Connecting with professionals, mentors, and tech communities helped me gain confidence, learn faster, and see possibilities I didn’t know existed.
 
 ---
 
@@ -141,7 +142,7 @@ Add your answer here...
 
 Paste your link here:
 
-`Add your URL here`
+`Medium: https://medium.com/@nehavpatel81/a-journalist-wrote-about-my-life-seven-years-from-now-4697dd5adab1`
 
 ---
 
@@ -173,7 +174,7 @@ If Yes:
 
 ## Answer
 
-Add your answer here...
+When I made a shortcut that I later felt wasn’t fully aligned with my values, the immediate emotion was stress and discomfort. I kept thinking about it afterward, especially when I realized it could have been handled in a more honest or disciplined way. There was a mix of guilt and self-awareness that stayed with me longer than expected. I didn’t feel proud of the decision, and it made me reflect on my habits and approach to work more seriously. Over time, it pushed me to become more careful, transparent, and consistent in how I handle tasks, even when pressure is high or deadlines feel tight.
 
 ---
 
@@ -272,7 +273,7 @@ Examples:
 
 Answer:
 
-Add your answer here...
+Yes 
 
 ---
 
@@ -290,7 +291,9 @@ Example:
 
 #### My Weekly Routine
 
-Add your answer here...
+Mon–Thu: 1–2 hours Research, learning/building, Assigenment, Blog writting
+Saturday: DMI session + practical practice tasks
+Sunday: Weekly review, planning for next week
 
 ---
 
@@ -298,11 +301,11 @@ Add your answer here...
 
 #### When Will You Do DMI Work? (Days + Time)
 
-Add your answer here...
+Everyday (1–2 hours)
 
 #### How Many Sessions Per Week?
 
-Add your answer here...
+1–2 focused sessions
 
 ---
 
@@ -316,7 +319,9 @@ Examples:
 
 #### My Distraction Rules
 
-Add your answer here...
+No social media during study time - Phone on silent 
+Work in a clean, distraction-free environment
+Avoid multitasking while studying or building projects
 
 ---
 
@@ -324,28 +329,35 @@ Add your answer here...
 
 ### Biggest insight I got about myself this week
 
-Add your answer here...
+Consistency and small daily effort matter more than motivation spikes.
 
 ### My biggest weakness/loop I noticed
 
-Add your answer here...
+Sometimes I try to learn too many things at once, which reduces focus.
 
 ### One system I will implement from this week (exact habit + time)
 
-Add your answer here...
+Daily 1-2 hour focused learning block at a fixed time (evening), without distractions.
 
 ### LinkedIn Post
 
 Paste your LinkedIn post link here:
 
-`Add your URL here`
+`https://www.linkedin.com/posts/workwithneha_dmibypravinmishra-agenticai-claudecode-share-7478533357316763649-mbQP/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADVmLRoB9dJ70xtJ1M6sDVbSBOiVTmQDql0`
+======
 
 ---
 
 ## 10. Proof of Work
 
-- LinkedIn Post URL: **ADD LINK HERE**  
+- LinkedIn Post URL: **ADD LINK HERE** 
+
+`https://www.linkedin.com/posts/workwithneha_dmibypravinmishra-agenticai-claudecode-share-7478532720621682688-0WjQ/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADVmLRoB9dJ70xtJ1M6sDVbSBOiVTmQDql0`
+======
 - Blog / Medium : **ADD LINK HERE**  
+
+`https://medium.com/@workwithneha/starting-my-devops-journey-a-new-chapter-in-my-tech-career-d828fe0605a8`
+======
 
 ---
 
