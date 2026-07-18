@@ -259,7 +259,7 @@ Add your screenshot here.
 
 #### Screenshot 2 — Output of `sudo nginx -t` showing syntax ok (fixed config)
 
-Add your screenshot here.
+![curl](./screenshots/SC54.png)
 
 ---
 
@@ -301,13 +301,13 @@ Simulate missing deployment content and recover the application safely.
 
 #### Screenshot 1 — Output of `curl -I http://<public-ip>` showing failure (non-200 response)
 
-Add your screenshot here.
+![curl](./screenshots/SC73.png)
 
 ---
 
 #### Screenshot 2 — Output of `curl -I http://<public-ip>` confirming recovery (200 OK)
 
-Add your screenshot here.
+![curl](./screenshots/SC76.png)
 
 ---
 
@@ -345,31 +345,31 @@ Answer the following in your own words:
 
 **1. Why is SSH key-based authentication more secure than sharing passwords?**
 
-Write your answer here.
+SSH keys are more secure than passwords because they are much harder to guess or steal.They provide a safer way to access the server and reduce the risk of unauthorized logins.They also help protect production systems from password-based attacks.
 
 ---
 
 **2. Why should only required ports be open on a production server?**
 
-Write your answer here.
+Keeping only the required ports open reduces security risks.It limits unnecessary access to the server and helps prevent attacks.This follows security best practices for production environments.
 
 ---
 
 **3. Why is it important for Nginx to be enabled on boot?**
 
-Write your answer here.
+Enabling Nginx on boot ensures the web server starts automatically after a system restart.This makes the website available without manual intervention.It helps reduce downtime and improves service reliability.
 
 ---
 
 **4. What are the risks of sharing secrets, keys, or credentials publicly?**
 
-Write your answer here.
+If secrets or keys are shared publicly, unauthorized users can access your systems.This can lead to data theft, service misuse, or compromised cloud resources.Keeping credentials private is essential for maintaining security.
 
 ---
 
 **5. Why should cloud resources be stopped or terminated when they are no longer needed?**
 
-Write your answer here.
+Unused cloud resources can continue to generate costs even when they are not in use.Stopping or terminating them helps reduce unnecessary expenses.It also keeps the cloud environment organized and easier to manage.
 
 ---
 
