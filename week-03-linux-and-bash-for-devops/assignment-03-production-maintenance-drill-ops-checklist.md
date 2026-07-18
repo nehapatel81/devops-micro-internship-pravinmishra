@@ -275,19 +275,19 @@ Answer the following in your own words:
 
 **1. What caused the configuration failure?**
 
-Write your answer here.
+
 
 ---
 
 **2. How did you fix the issue?**
 
-Write your answer here.
+
 
 ---
 
 **3. How can you avoid this kind of issue in real production systems?**
 
-Write your answer here.
+
 
 ---
 
@@ -317,19 +317,19 @@ Answer the following in your own words:
 
 **1. What caused the application to break in this scenario?**
 
-Write your answer here
+The application stopped working because the /var/www/html directory was temporarily replaced with an empty directory. As a result, Nginx could not find the required files, such as index.html, to serve the website.This caused the application to become unavailable.
 
 ---
 
 **2. How did you fix the issue and restore the application?**
 
-Write your answer here.
+I restored the original deployment by replacing the empty /var/www/html directory with the backup.After restarting the Nginx service, I verified the application using the server's public IP. A successful HTTP 200 response confirmed that the application was restored.
 
 ---
 
 **3. What steps would you take to prevent this kind of issue in real production systems?**
 
-Write your answer here.
+I would always create a backup before making changes to the production server.I would use automated deployment pipelines with rollback support instead of making manual changes.Testing in a staging environment and monitoring the application after deployment would help prevent downtime.
 
 ---
 
