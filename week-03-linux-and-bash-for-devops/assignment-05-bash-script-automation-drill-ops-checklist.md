@@ -153,13 +153,13 @@ Use arrays and loops to print a checklist of tools used in Bash scripting.
 
 #### Screenshot 1 — Content of `tools-checklist.sh`
 
-Add your screenshot here.
+![linkedin](./screenshots/SC109.png)
 
 ---
 
 #### Screenshot 2 — Output of `./tools-checklist.sh`
 
-Add your screenshot here.
+![linkedin](./screenshots/SC111.png)
 
 ---
 
@@ -188,7 +188,7 @@ This is commonly used with loops to process every item.
 
 **4. What is the purpose of the `for` loop in this script?**
 
-Add your answer here.
+The purpose of the for loop is to repeat the same set of commands for each item in a list. It allows the script to process multiple values automatically without writing the same code multiple times.
 
 ---
 
@@ -202,13 +202,13 @@ Use loops to repeat a task multiple times.
 
 #### Screenshot 1 — Content of `counter.sh`
 
-Add your screenshot here.
+![linkedin](./screenshots/SC112.png)
 
 ---
 
 #### Screenshot 2 — Output of `./counter.sh`
 
-Add your screenshot here.
+![linkedin](./screenshots/SC113.png)
 
 ---
 
@@ -218,25 +218,25 @@ Answer the following in your own words:
 
 **1. What is a loop?**
 
-Add your answer here.
+We use loops to automate repetitive tasks, making scripts shorter, more efficient, and easier to maintain
 
 ---
 
 **2. Why do we use loops in Bash scripting?**
 
-Add your answer here.
+We use loops to automate repetitive tasks, making scripts shorter, more efficient, and easier to maintain.
 
 ---
 
 **3. How many times did the loop run in your script?**
 
-Add your answer here.
+The loop ran five times because it contained five values to iterate through
 
 ---
 
 **4. What would you change if you wanted the loop to run 10 times?**
 
-Add your answer here.
+I would add five more values to the list (for example, numbers 6 through 10), so the loop would iterate a total of 10 times.
 
 ---
 
@@ -256,13 +256,13 @@ Add your screenshot here.
 
 #### Screenshot 2 — Content of `file-check.sh`
 
-Add your screenshot here.
+![linkedin](./screenshots/SC115.png)
 
 ---
 
 #### Screenshot 3 — Output of `./file-check.sh`
 
-Add your screenshot here.
+![linkedin](./screenshots/SC116.png)
 
 ---
 
@@ -272,25 +272,25 @@ Answer the following in your own words:
 
 **1. What does `-d` check in Bash?**
 
-Add your answer here.
+The -d test checks whether a specified path exists and is a directory.
 
 ---
 
 **2. What does `-f` check in Bash?**
 
-Add your answer here.
+The -f test checks whether a specified path exists and is a regular file.
 
 ---
 
 **3. Why should file and directory paths be stored in variables?**
 
-Add your answer here.
+Storing file and directory paths in variables makes the script easier to read, update, and maintain. If the path changes, you only need to update the variable instead of changing it throughout the script.
 
 ---
 
 **4. What happens if the file does not exist?**
 
-Add your answer here.
+If the file does not exist, the -f test returns false, and the script executes the else block (if one is provided), such as displaying a message that the file was not found.
 
 ---
 
@@ -304,25 +304,25 @@ Use if-else conditionals to make decisions based on a variable value.
 
 #### Screenshot 1 — Content of `score-check.sh` with `score=85`
 
-Add your screenshot here.
+![linkedin](./screenshots/SC117.png)
 
 ---
 
 #### Screenshot 2 — Output showing `Result: Pass`
 
-Add your screenshot here.
+![linkedin](./screenshots/SC118.png)
 
 ---
 
 #### Screenshot 3 — Content of `score-check.sh` with `score=55`
 
-Add your screenshot here.
+![linkedin](./screenshots/SC121.png)
 
 ---
 
 #### Screenshot 4 — Output showing `Result: Retry`
 
-Add your screenshot here.
+![linkedin](./screenshots/SC120.png)
 
 ---
 
@@ -332,25 +332,25 @@ Answer the following in your own words:
 
 **1. What is the purpose of if-else in Bash?**
 
-Add your answer here.
+The if-else statement allows a script to make decisions by executing different commands based on whether a condition is true or false.
 
 ---
 
 **2. What does `-ge` mean?**
 
-Add your answer here.
+-ge means greater than or equal to. It is used to compare two integer values in Bash
 
 ---
 
 **3. Why should conditions be tested with different values?**
 
-Add your answer here.
+Conditions should be tested with different values to ensure the script works correctly in all scenarios and handles both true and false outcomes as expected.
 
 ---
 
 **4. How can conditionals help in automation scripts?**
 
-Add your answer here.
+Conditionals help automation scripts make decisions automatically, such as checking if a file exists, verifying user input, or performing different actions based on system conditions. This makes scripts more flexible and reliable.
 
 ---
 
@@ -364,13 +364,13 @@ Create a final Bash script using functions to organize reusable code.
 
 #### Screenshot 1 — Content of `final-automation.sh`
 
-Add your screenshot here.
+![linkedin](./screenshots/SC122.png)
 
 ---
 
 #### Screenshot 2 — Output of `./final-automation.sh`
 
-Add your screenshot here.
+![linkedin](./screenshots/SC123.png)
 
 ---
 
@@ -386,25 +386,25 @@ Answer the following in your own words:
 
 **1. What is a function in Bash?**
 
-Add your answer here.
+A function is a reusable block of code that performs a specific task. It can be called whenever it is needed in a script.
 
 ---
 
 **2. Why are functions useful in scripts?**
 
-Add your answer here.
+Functions make scripts easier to read, organize, and maintain. They also reduce code duplication by allowing the same code to be reused multiple times.
 
 ---
 
 **3. Which functions did you create in this script?**
 
-Add your answer here.
+I created functions to organize different tasks in the script, such as displaying information, checking files or directories, and performing the main operations of the script.
 
 ---
 
 **4. How does this final script combine variables, arrays, loops, conditionals, files, and functions?**
 
-Add your answer here.
+The script uses variables to store values, arrays to hold multiple items, loops to process each item, conditionals to make decisions based on different conditions, file checks to verify whether files or directories exist, and functions to organize the code into reusable sections. Together, these features make the script more efficient, readable, and easier to maintain.
 
 ---
 
