@@ -265,7 +265,7 @@ Add your screenshot here.
 
 #### Screenshot 3 — Output of `curl -I http://<public-ip>` confirming recovery (200 OK)
 
-Add your screenshot here.
+![curl](./screenshots/SC76.png)
 
 ---
 
