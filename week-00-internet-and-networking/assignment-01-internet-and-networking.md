@@ -91,7 +91,7 @@ EpicReads bookstore has two application versions:
 
 Save your diagram image in the `screenshots` folder and update the file name below.
 
-![Application Architecture Diagram](screenshots/task-3-diagram.png)
+![Application Architecture Diagram](screenshots/task2.png)
 
 
 Replace `task-3-diagram.png` with your actual diagram file name.
@@ -102,18 +102,19 @@ Replace `task-3-diagram.png` with your actual diagram file name.
 
 ### Frontend
 
-* Add your answer here...
-* Add your answer here...
+HTML – Creates the structure and content of web pages.
+CSS – Styles the website by adding colors, layouts, and fonts.
+JavaScript – Adds interactivity and dynamic features to the website.
 
 ### Backend
 
-* Add your answer here...
-* Add your answer here...
+Node.js – Runs JavaScript on the server to handle requests and business logic.
+Express.js – A Node.js framework used to build APIs and manage server-side routing.
 
 ### Database
 
-* Add your answer here...
-* Add your answer here...
+MongoDB – A NoSQL database that stores data in flexible JSON-like documents.
+MySQL – A relational database that stores data in tables using SQL for querying and management.
 
 ---
 
@@ -142,7 +143,7 @@ In **50–100 words**, explain in your own words:
 
 ## Answer
 
-Add your answer here...
+The Domain Name System (DNS) is like the Internet’s phonebook. It converts a human-friendly domain name like epicreads.com into a machine-readable IP address such as 52.172.142.222, allowing users to access websites easily without remembering numbers. To connect the domain to this IP, an A record should be used. An A record maps a domain name directly to an IPv4 address, making it the correct choice for linking epicreads.com to the given server IP so users can reach the bookstore website.Task 5 – Visual Studio Code Setup (Screenshot)
 
 ---
 
@@ -178,7 +179,7 @@ ls
 
 Save your screenshot in the `screenshots` folder and update the file name below.
 
-![VS Code Setup Screenshot](screenshots/task-5-vscode.png)
+![VS Code Setup Screenshot](screenshots/task3.png)
 
 
 Replace `task-5-vscode.png` with your actual screenshot file name.
