@@ -219,7 +219,7 @@ Add the following credit note at the end of your post:
 Paste your LinkedIn post URL here:
 
 ```text
-Add your URL here...
+https://www.linkedin.com/posts/workwithneha_devops-networking-cloudcomputing-share-7485093914454937600-Bste/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADVmLRoB9dJ70xtJ1M6sDVbSBOiVTmQDql0
 ```
 
 ---
@@ -228,7 +228,7 @@ Add your URL here...
 
 Paste the full text of your LinkedIn post here:
 
-Add your post content here...
+![VS Code Setup Screenshot](screenshots/task5.png)
 
 ---
 
@@ -236,19 +236,19 @@ Add your post content here...
 
 ### What did you find easy?
 
-Add your answer here...
+I found it easy to understand the basic components of software architecture, such as the frontend, backend, database, and how they work together. Visualizing how a user's request moves through an application helped me grasp the overall system flow.
 
 ---
 
 ### What was difficult?
 
-Add your answer here...
+The most challenging part was understanding how all the architectural components interact in large-scale applications. Learning about different architectural patterns and how infrastructure supports applications required extra reading and practice.
 
 ---
 
 ### What will you improve next week?
 
-Add your answer here...
+Next week, I will spend more time practicing the concepts through diagrams and real-world examples. I also plan to strengthen my understanding of networking fundamentals and continue building a solid foundation for my DevOps journey.
 
 ---
 
