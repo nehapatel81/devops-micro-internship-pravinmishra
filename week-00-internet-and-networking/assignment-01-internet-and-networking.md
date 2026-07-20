@@ -34,7 +34,7 @@ Replace `task-1-chatgpt.png` with your actual screenshot file name.
 
 ## What I Learned (2–3 lines)
 
-Add your answer here...
+I learned that a protocol in networking is a set of rules that helps devices communicate clearly and correctly. A real-life phone conversation made it easier to understand how these rules work in practice. It showed me that, just like humans follow communication rules, computers also rely on protocols for smooth interaction.
 
 ---
 
@@ -59,7 +59,7 @@ Write a short explanation (**100–150 words**) that includes:
 
 ## Answer
 
-Add your answer here...
+I learned how different networking concepts like packet switching, IP addresses, TCP/IP, and HTTP/HTTPS work together to enable communication over the internet. It helped me understand how data is transmitted efficiently, correctly, and securely between devices.
 
 ---
 
