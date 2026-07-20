@@ -72,19 +72,19 @@ Answer the following in your own words:
 
 **1. Why should Claude receive project-specific operational rules?**
 
-Add your answer here.
+Claude should receive project-specific operational rules because they provide clear instructions about how to work within that specific environment. These rules help Claude understand the project structure, required processes, limitations, and best practices so it can provide safer and more accurate assistance.
 
 ---
 
 **2. Why is the human required to execute the recovery command?**
 
-Add your answer here.
+The human is required to execute the recovery command because recovery actions can make important system changes. A human should review and approve the action before running it to prevent accidental damage and ensure the correct decision is being made.
 
 ---
 
 **3. Which rule prevents Claude from making an unsupported diagnosis?**
 
-Add your answer here.
+The rule that prevents Claude from making an unsupported diagnosis is the requirement to verify evidence before making conclusions. Claude must collect information, check logs, and confirm the issue before identifying the root cause instead of guessing.
 
 ---
 
