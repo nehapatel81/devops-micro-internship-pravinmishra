@@ -472,13 +472,13 @@ Add your answer here.
 
 Paste your LinkedIn post URL here:
 
-`Add your URL here`
+`https://www.linkedin.com/posts/workwithneha_dmibypravinmishra-agenticai-devops-share-7484080534269214720-QUXT/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADVmLRoB9dJ70xtJ1M6sDVbSBOiVTmQDql0`
 
 ---
 
 #### Screenshot — Published LinkedIn post
 
-Add your screenshot here.
+![linkedin](./screenshots/SC130.png)
 
 ---
 
@@ -486,7 +486,7 @@ Add your screenshot here.
 
 Paste the URL of your GitHub folder or repository containing the assignment files here:
 
-`Add your URL here`
+`https://github.com/nehapatel81/devops-micro-internship-pravinmishra`
 
 ---
 
