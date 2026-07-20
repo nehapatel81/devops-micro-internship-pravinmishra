@@ -46,7 +46,7 @@ You can publish your blog on:
 
 #### Screenshot 1 — Blog published and visible
 
-Add your screenshot here.
+![Blog](./screenshots/task54.png)
 
 ---
 
@@ -54,7 +54,7 @@ Add your screenshot here.
 
 Blog Link:
 
-`Add your URL here`
+`https://medium.com/@workwithneha/week-2-reflection-building-smarter-systems-with-agentic-ai-b79801c7a108?sharedUserId=workwithneha`
 
 ---
 
@@ -92,7 +92,7 @@ Your post must include:
 
 #### Screenshot 2 — LinkedIn post published
 
-Add your screenshot here.
+![Blog](./screenshots/task55.png)
 
 ---
 
@@ -108,7 +108,7 @@ Paste your LinkedIn post content here
 
 ### LinkedIn Post Link:
 
-`Add your URL here`
+`https://www.linkedin.com/posts/workwithneha_dmibypravinmishra-agenticai-claudecode-share-7481445427779657728-xRBe/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADVmLRoB9dJ70xtJ1M6sDVbSBOiVTmQDql0`
 
 ---
 
