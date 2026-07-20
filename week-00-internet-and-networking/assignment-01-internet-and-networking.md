@@ -228,7 +228,7 @@ https://www.linkedin.com/posts/workwithneha_devops-networking-cloudcomputing-sha
 
 Paste the full text of your LinkedIn post here:
 
-![VS Code Setup Screenshot](screenshots/task5.png)
+![VS Code Setup Screenshot](screenshots/task-5.png)
 
 ---
 
