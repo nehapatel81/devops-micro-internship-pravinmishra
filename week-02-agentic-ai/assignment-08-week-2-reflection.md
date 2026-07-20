@@ -100,8 +100,6 @@ Your post must include:
 
 LinkedIn Post Content (copy-paste here):
 
-`https://www.linkedin.com/posts/workwithneha_dmibypravinmishra-agenticai-claudecode-share-7481444925344161792-jJV9/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADVmLRoB9dJ70xtJ1M6sDVbSBOiVTmQDql0`
-====
 
 ```
 Paste your LinkedIn post content here
@@ -112,6 +110,9 @@ Paste your LinkedIn post content here
 ### LinkedIn Post Link:
 
 `https://www.linkedin.com/posts/workwithneha_dmibypravinmishra-agenticai-claudecode-share-7481445427779657728-xRBe/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADVmLRoB9dJ70xtJ1M6sDVbSBOiVTmQDql0`
+
+`https://www.linkedin.com/posts/workwithneha_dmibypravinmishra-agenticai-claudecode-share-7481445427779657728-xRBe/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADVmLRoB9dJ70xtJ1M6sDVbSBOiVTmQDql0`
+====
 
 ---
 
