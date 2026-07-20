@@ -26,7 +26,7 @@ Confirm that Nginx and the React application are healthy before building the aut
 
 #### Screenshot 2 — Output of `pwd` and `find . -maxdepth 4 -type d | sort` showing the workspace folder structure
 
-![output1](./screenshots/SC131.png)
+![output1](./screenshots/SC132.png)
 
 ---
 
@@ -36,19 +36,19 @@ Answer the following in your own words:
 
 **1. What proves that Nginx is running?**
 
-Add your answer here.
+If the output returns active, it confirms that the Nginx service is running successfully.
 
 ---
 
 **2. What proves that the server is listening for HTTP traffic?**
 
-Add your answer here.
+If port 80 appears in the output, it proves that Nginx is listening for HTTP requests.
 
 ---
 
 **3. Why must you capture a healthy baseline before simulating an incident?**
 
-Add your answer here.
+I must capture a healthy baseline before simulating an incident because it provides a reference point for how the system normally works. After creating the incident, I can compare the current state with the baseline to identify what changed and troubleshoot the issue more effectively. Once the problem is fixed, I can verify that the system has returned to its normal healthy state.
 
 ---
 
