@@ -147,13 +147,13 @@ Install and start Nginx on your EC2 instance, then copy `index.html` and `style.
 
 #### Screenshot 14 — Output of `curl -I http://localhost` showing `HTTP/1.1 200 OK`
 
-Add your screenshot here.
+![SC](./screenshots/sc19.png)
 
 ---
 
 #### Screenshot 15 — Browser showing the CodeTrack site loaded at `http://<EC2_PUBLIC_IP>`, with your Full Name and Group Name visible
 
-Add your screenshot here.
+![SC](./screenshots/sc20.png)
 
 ---
 
@@ -165,13 +165,14 @@ Add your screenshot here.
 
 Paste your LinkedIn post URL here:
 
-`Add your URL here`
+`https://www.linkedin.com/posts/workwithneha_devops-networking-cloudcomputing-share-7485196066074710016-f_OL/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADVmLRoB9dJ70xtJ1M6sDVbSBOiVTmQDql0`
+=====
 
 ---
 
 #### Screenshot — LinkedIn post showing the deployed CodeTrack application
 
-Add your screenshot here.
+![SC](./screenshots/sc21.png)
 
 ---
 
@@ -186,14 +187,14 @@ Add your screenshot here.
 
 # Completion Checklist
 
-- [ ] `CodeTrack` repository verified with `git status` (Screenshots 1–2)
-- [ ] `index.html` and `style.css` created and populated (Screenshots 3–4)
-- [ ] Starter files staged and committed in the first commit (Screenshots 5–8)
-- [ ] Student Name and Group Name updated in `index.html` (Screenshot 9)
-- [ ] Second controlled commit created (Screenshots 10–12)
-- [ ] Nginx active on the EC2 instance and CodeTrack reachable via its public IP (Screenshots 13–15)
-- [ ] LinkedIn post published and URL submitted
-- [ ] No sensitive data exposed
+- [x] `CodeTrack` repository verified with `git status` (Screenshots 1–2)
+- [x] `index.html` and `style.css` created and populated (Screenshots 3–4)
+- [x] Starter files staged and committed in the first commit (Screenshots 5–8)
+- [x] Student Name and Group Name updated in `index.html` (Screenshot 9)
+- [x] Second controlled commit created (Screenshots 10–12)
+- [x] Nginx active on the EC2 instance and CodeTrack reachable via its public IP (Screenshots 13–15)
+- [x] LinkedIn post published and URL submitted
+- [x] No sensitive data exposed
 
 ---
 
