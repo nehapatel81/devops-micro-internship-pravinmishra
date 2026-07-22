@@ -113,13 +113,13 @@ Attempt to commit the staged file from Task 1 and show the hook rejecting it.
 
 **1. Which line in `hooks/pre-commit` matched your fake key, and why did it match?**
 
-Add your answer here.
+The fake key was detected by the grep line in the hooks/pre-commit script that checks for AWS access key patterns. It looks for strings starting with the AKIA prefix followed by a specific number of uppercase letters and numbers. Since AKIAABCDEFGHIJKLMNOP matched that pattern, the hook blocked the commit.
 
 ---
 
 **2. Could this hook have caught a poorly-named variable that stores a secret without the `AKIA` prefix? What does that tell you about the limits of a fixed rule like this?**
 
-Add your answer here.
+No. If a secret didn't match one of the predefined patterns, such as the AKIA format, the hook would likely miss it. This shows the limitation of fixed rules—they can only detect patterns they are designed to recognize, so secrets in different formats may go unnoticed.
 
 ---
 
@@ -147,13 +147,13 @@ Create a manually invoked Claude Code skill that reads your staged changes and p
 
 **1. Why does `/pr-ready` have `Bash` and `Read` but not `Write`?**
 
-Add your answer here.
+/pr-ready has Bash and Read permissions because it needs to inspect the repository, review files, and run Git commands to evaluate whether a Pull Request is ready. It does not have Write permission because it is designed to provide feedback rather than make changes. This ensures the user stays in control of any modifications.
 
 ---
 
 **2. The pre-commit hook and `/pr-ready` both looked at the same staged diff. Did they flag the same things? What did one catch that the other didn't?**
 
-Add your answer here.
+No, they did not flag the same issues. The pre-commit hook detected specific rule-based problems, such as the fake secret key, using predefined patterns. In contrast, /pr-ready reviewed the staged changes more broadly, checking things like documentation, test coverage, and overall PR quality. Together, they provide both automated rule checks and a more comprehensive review.
 
 ---
 
@@ -181,7 +181,7 @@ Remove the secret and debug statement, then prove both gates now pass clean.
 
 **1. What exactly did you change to satisfy the pre-commit hook?**
 
-Add your answer here.
+To satisfy the pre-commit hook, I removed the fake hardcoded secret from the staged changes and cleaned up the temporary debug code. Once those issues were removed, the hook no longer detected any violations, and the commit completed successfully.
 
 ---
 
@@ -211,19 +211,19 @@ Push your branch and open a real Pull Request, using `/pr-ready`'s drafted title
 
 **1. What, if anything, did you edit in the AI's drafted PR description before using it? Why?**
 
-Add your answer here.
+I didn't make any changes to the AI-generated PR description because it was clear, accurate, and matched the work I had completed. I still reviewed it carefully before using it to make sure everything was correct.
 
 ---
 
 **2. If you had blindly copy-pasted the AI's draft without reading it, what could go wrong?**
 
-Add your answer here.
+If I had copied and pasted the AI's draft without reviewing it, I could have submitted a PR description that was inaccurate or didn't fully reflect my changes. Reading it first helped ensure it was complete and correct.
 
 ---
 
 **3. Why does this PR need to target your own fork instead of the shared upstream repository?**
 
-Add your answer here.
+The PR needs to target my own fork because it allows me to submit and review my changes without directly affecting the shared upstream repository. This keeps the main project safe while my changes are reviewed.
 
 ---
 
@@ -237,31 +237,31 @@ Explain this assignment's workflow using the same Gather → Analyze → Human A
 
 **1. Which step(s) represent Gather?**
 
-Add your answer here.
+The Gather step includes the pre-commit hook scanning the staged files and /pr-ready reading the staged changes and repository information before starting its review.
 
 ---
 
 **2. Which step(s) represent Analyze?**
 
-Add your answer here.
+The Analyze step is when /pr-ready reviews the collected information and provides feedback on the Pull Request, including any issues or suggestions for improvement.
 
 ---
 
 **3. Which step is Human Act, and why must a human — not Claude — run `git commit`, `git push`, and open the PR?**
 
-Add your answer here.
+The Human Act step is when I review the AI's feedback and manually run git commit, git push, and create the Pull Request. These actions modify the repository, so they require human approval and responsibility.
 
 ---
 
 **4. Which step is Verify?**
 
-Add your answer here.
+The Verify step is confirming that the commit passes the pre-commit checks, the branch is pushed successfully, and the Pull Request is created with the correct changes.
 
 ---
 
 **5. In one or two sentences: why do you need *both* the fixed-rule pre-commit hook and the AI skill? Isn't one enough?**
 
-Add your answer here.
+Both tools serve different purposes. The pre-commit hook catches specific rule-based issues, while the AI reviews the changes more broadly for quality, completeness, and best practices. Using both provides a more reliable review process.
 
 ---
 
@@ -275,17 +275,13 @@ Publish a LinkedIn post summarizing what you built and what you learned about co
 
 #### LinkedIn Post URL
 
-Add your LinkedIn post URL here...
+'https://www.linkedin.com/posts/workwithneha_devops-networking-cloudcomputing-share-7485482231172562944-Bgvp/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADVmLRoB9dJ70xtJ1M6sDVbSBOiVTmQDql0'
 
 ---
 
 ## Key Learnings
 
-Add 3-5 bullet points on what you learned this week.
-
--
--
--
+In this assignment, I built and configured a shared Git pre-commit hook to enforce consistent repository standards and learned how fixed-rule validation can detect issues like hardcoded secrets while recognizing its limitations. I also used AI-assisted review to evaluate code quality, documentation, and Pull Request readiness beyond simple pattern matching. By following the Agentic Loop—Gather, Analyze, Human Act, and Verify—I understood the importance of keeping humans responsible for repository changes. Overall, I learned that combining automated rule-based checks with AI-powered review creates a safer, more reliable, and effective development workflow.
 
 ---
 
