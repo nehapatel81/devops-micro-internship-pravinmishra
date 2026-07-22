@@ -188,7 +188,7 @@ If Yes:
 **What emotion did you feel?** (minimum 50–100 words)
 
 ## Answer
-
+Yes,
 When I made a shortcut that I later felt wasn’t fully aligned with my values, the immediate emotion was stress and discomfort. I kept thinking about it afterward, especially when I realized it could have been handled in a more honest or disciplined way. There was a mix of guilt and self-awareness that stayed with me longer than expected. I didn’t feel proud of the decision, and it made me reflect on my habits and approach to work more seriously. Over time, it pushed me to become more careful, transparent, and consistent in how I handle tasks, even when pressure is high or deadlines feel tight.
 
 ---
