@@ -215,26 +215,26 @@ Choose books that improve:
 
 ## Book List
 
-1. The Let Them Theory by Mel Robbins  ![aws-acc-proof](./screenshots/book1.png)
+1. The Let Them Theory by Mel Robbins
 
-2. Communication: The Laws of Human Nature by Robert Greene ![aws-acc-proof](./screenshots/book2.jpg)
+2. Communication: The Laws of Human Nature by Robert Greene
 
-3. The Mountain Is You by Brianna Wiest![aws-acc-proof](./screenshots/book3.jpg)
+3. The Mountain Is You by Brianna Wiest
 
-4. Can't Hurt Me by David Goggins ![aws-acc-proof](./screenshots/book4.jpg)
+4. Can't Hurt Me by David Goggins
 
-5. Never Split the Difference: Negotiating as if Your Life Depended on It by Chris Voss![aws-acc-proof](./screenshots/book5.jpg)
+5. Never Split the Difference: Negotiating as if Your Life Depended on It by Chris Voss
 
-6. Getting Things Done (GTD) by David Allen ![aws-acc-proof](./screenshots/book6.jpg)
+6. Getting Things Done (GTD) by David Allen 
 
-7. The Power of Habit: Why We Do What We Do in Life and Business by Charles Duhigg ![aws-acc-proof](./screenshots/book7.jpg)
+7. The Power of Habit: Why We Do What We Do in Life and Business by Charles Duhigg 
 
-8. The Psychology of Money: Timeless lessons on wealth, greed, and happiness by Morgan House ![aws-acc-proof](./screenshots/book8.jpg)
+8. The Psychology of Money: Timeless lessons on wealth, greed, and happiness by Morgan House
 
-9. Dare to Lead: Brave Work. Tough Conversations. Whole Hearts. by Bren Brown  ![aws-acc-proof](./screenshots/book9.jpg)
+9. Dare to Lead: Brave Work. Tough Conversations. Whole Hearts. by Bren Brown 
 
 10. The Coaching Habit: Say Less, Ask More & Change the Way You Lead Forever
-by Michael Bungay Stanier ![aws-acc-proof](./screenshots/book10.jpg)
+by Michael Bungay Stanier 
 
 
 
