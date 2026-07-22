@@ -27,7 +27,7 @@ Confirm you are working in your own fork, then create a dedicated branch for thi
 
 #### Screenshot 1 — Output of git remote -v and git branch showing the new branch
 
-Add your screenshot here.
+![SC](./screenshots/sc57.png)
 
 ---
 
@@ -35,7 +35,7 @@ Add your screenshot here.
 
 **1. Why create a dedicated branch instead of doing this work on main?**
 
-Add your answer here.
+Creating a dedicated branch keeps the main branch clean and stable. It allows us to make changes, test, and fix issues without affecting the working version. Once the changes are reviewed and approved, they can be safely merged into main.
 
 ---
 
@@ -49,7 +49,7 @@ On your own fork of this repository (the one you've been submitting your DMI wor
 
 #### Screenshot 1 — Output of  `git status` showing the staged file on feature/ai-pr-ready
 
-Add your screenshot here.
+![SC](./screenshots/sc58.png)
 
 ---
 
@@ -57,7 +57,7 @@ Add your screenshot here.
 
 **1. Why does this assignment use an obviously fake key instead of a real one?**
 
-Add your answer here.
+This assignment we uses a fake key to keep things safe. A real SSH key could give access to someone’s account or server, so using a fake one lets us practice the process without risking security. The main goal is learning how SSH keys work, not using an actual private key.
 
 ---
 
@@ -311,19 +311,19 @@ Paste your forked repository URL here:
 
 # Completion Checklist
 
-- [ ] Branch `feature/ai-pr-ready` created with a staged file containing a fake secret and a debug statement
-- [ ] `hooks/pre-commit` created and tracked in the repo (not only in `.git/hooks/`)
-- [ ] `core.hooksPath` configured to point at `hooks/`
-- [ ] Pre-commit hook shown blocking the risky commit
-- [ ] `.claude/skills/pr-ready/SKILL.md` created with correct `allowed-tools` (no `Write`) and `disable-model-invocation: true`
-- [ ] `/pr-ready` run against the risky diff and shown flagging issues
-- [ ] Risky file fixed; `git commit` succeeds cleanly
-- [ ] `/pr-ready` re-run showing a clean report and drafted PR title/description
-- [ ] Pull Request opened using the AI draft as a starting point, with your own fork as the base repository (not upstream), PR link included
-- [ ] Agentic Loop mapping (Task 7) completed in your own words
-- [ ] LinkedIn post published and URL submitted
-- [ ] All required screenshots added
-- [ ] GitHub repository URL provided
+- [x] Branch `feature/ai-pr-ready` created with a staged file containing a fake secret and a debug statement
+- [x] `hooks/pre-commit` created and tracked in the repo (not only in `.git/hooks/`)
+- [x] `core.hooksPath` configured to point at `hooks/`
+- [x] Pre-commit hook shown blocking the risky commit
+- [x] `.claude/skills/pr-ready/SKILL.md` created with correct `allowed-tools` (no `Write`) and `disable-model-invocation: true`
+- [x] `/pr-ready` run against the risky diff and shown flagging issues
+- [x] Risky file fixed; `git commit` succeeds cleanly
+- [x] `/pr-ready` re-run showing a clean report and drafted PR title/description
+- [x] Pull Request opened using the AI draft as a starting point, with your own fork as the base repository (not upstream), PR link included
+- [x] Agentic Loop mapping (Task 7) completed in your own words
+- [x] LinkedIn post published and URL submitted
+- [x] All required screenshots added
+- [x] GitHub repository URL provided
 
 ---
 
