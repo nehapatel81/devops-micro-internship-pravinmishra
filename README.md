@@ -14,11 +14,11 @@
 
 | | |
 |---|---|
-| **Name** | Pravin Mishra |
-| **LinkedIn** | [pravin-mishra-aws-trainer](https://www.linkedin.com/in/pravin-mishra-aws-trainer/) |
-| **Location** | Helsinki, Finland |
-| **Background** | Cloud, DevOps & AI Consultant |
-| **Goal** | Train 10,000+ DevOps professionals |
+| **Name** | Neha Patel |
+| **LinkedIn** | [pravin-mishra-aws-trainer](https://www.linkedin.com/in/workwithneha/) |
+| **Location** | Regina, Canada |
+| **Background** | Cloud, DevOps & AI Enthusiast |
+| **Goal** | Become a Cloud, DevOps and AI specialist|
 
 ---
 
@@ -67,11 +67,11 @@ This is not a course. It is an internship-style program — real deployments, re
 
 **Your stack (uncomment each badge as you earn it):**
 
-<!-- Week 00 → Internet & Networking Basics -->
-<!-- [![Week 00 – Networking](./badges/week-00.svg)](./week-00-internet-and-networking/) -->
+ Week 00 → Internet & Networking Basics 
+ [![Week 00 – Networking](./badges/week-00.svg)](./week-00-internet-and-networking/) 
 
-<!-- Week 01 → Success Mindset -->
-<!-- [![Week 01 – Mindset](./badges/week-01.svg)](./week-01-success-mindset/) -->
+ Week 01 → Success Mindset 
+ [![Week 01 – Mindset](./badges/week-01.svg)](./week-01-success-mindset/) 
 
 <!-- Week 02 → Agentic AI with Claude Code -->
 <!-- [![Week 02 – Agentic AI](./badges/week-02.svg)](./week-02-agentic-ai/) -->
@@ -130,11 +130,11 @@ This is not a course. It is an internship-style program — real deployments, re
 
 | Week | Topic | Status | Assignment | LinkedIn Post | Blog Post |
 |------|-------|--------|------------|---------------|-----------|
-| 00 | Internet & Networking Basics | ⬜ Not Started | ⏳ Pending | — | — |
-| 01 | Success Mindset | ⬜ Not Started | ⏳ Pending | — | — |
-| 02 | Agentic AI with Claude Code | ⬜ Not Started | ⏳ Pending | — | — |
-| 03 | Linux & Bash for DevOps | ⬜ Not Started | ⏳ Pending | — | — |
-| 04 | Git & GitHub | ⬜ Not Started | ⏳ Pending | — | — |
+| 00 | Internet & Networking Basics | ✅ Completed | ✅ Solved |https://www.linkedin.com/posts/workwithneha_devops-networking-cloudcomputing-share-7485093914454937600-Bste/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADVmLRoB9dJ70xtJ1M6sDVbSBOiVTmQDql0 | https://medium.com/@workwithneha/week-00-understanding-software-architecture-the-foundation-of-my-devops-journey-544b773c9355 |
+| 01 | Success Mindset | ✅ Completed | ✅ Solved | https://www.linkedin.com/posts/workwithneha_dmibypravinmishra-agenticai-claudecode-activity-7478533360433250304-MW0a?utm_source=share&utm_medium=member_desktop&rcm=ACoAADVmLRoB9dJ70xtJ1M6sDVbSBOiVTmQDql0 | https://medium.com/@workwithneha/week-1-reflection-devops-journey-35cc86965b87?sharedUserId=workwithneha |
+| 02 | Agentic AI with Claude Code | ✅ Completed | 🔄 In Progress |https://www.linkedin.com/posts/workwithneha_dmibypravinmishra-agenticai-claudecode-activity-7481445428375285761-OjaU?utm_source=share&utm_medium=member_desktop&rcm=ACoAADVmLRoB9dJ70xtJ1M6sDVbSBOiVTmQDql0 | https://medium.com/@workwithneha/week-2-reflection-building-smarter-systems-with-agentic-ai-b79801c7a108?sharedUserId=workwithneha |
+| 03 | Linux & Bash for DevOps | ✅ Completed | 🔄 In Progress | https://www.linkedin.com/posts/workwithneha_dmibypravinmishra-agenticai-devops-activity-7484080535300907008-LPxv?utm_source=share&utm_medium=member_desktop&rcm=ACoAADVmLRoB9dJ70xtJ1M6sDVbSBOiVTmQDql0 | https://medium.com/@workwithneha/week-03-learning-linux-and-bash-building-the-foundation-for-devops-b46e7c3c0203?sharedUserId=workwithneha |
+| 04 | Git & GitHub | ✅ Completed | 🔄 In Progress | https://www.linkedin.com/posts/workwithneha_devops-networking-cloudcomputing-share-7485482231172562944-Bgvp/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADVmLRoB9dJ70xtJ1M6sDVbSBOiVTmQDql0| — |
 | 05 | DevOps Lifecycle & Agile | ⬜ Not Started | ⏳ Pending | — | — |
 | 06 | AWS Cloud | ⬜ Not Started | ⏳ Pending | — | — |
 | 07 | Azure Cloud | ⬜ Not Started | ⏳ Pending | — | — |
