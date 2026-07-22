@@ -15,7 +15,7 @@
 | | |
 |---|---|
 | **Name** | Neha Patel |
-| **LinkedIn** | [pravin-mishra-aws-trainer](https://www.linkedin.com/in/workwithneha/) |
+| **LinkedIn** | [Neha Patel](https://www.linkedin.com/in/workwithneha/) |
 | **Location** | Regina, Canada |
 | **Background** | Cloud, DevOps & AI Enthusiast |
 | **Goal** | Become a Cloud, DevOps and AI specialist|
