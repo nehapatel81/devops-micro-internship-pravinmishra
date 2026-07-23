@@ -68,7 +68,8 @@ Deploy the portfolio website to the Nginx web root.
 
 #### Screenshot 4 — Output of `ls /var/www/html` showing deployed website files
 
-Add your screenshot here.
+
+![linkedin](./screenshots/SC135.png)
 
 ---
 
@@ -82,7 +83,8 @@ Verify the deployed website is publicly accessible and the footer contains your 
 
 #### Screenshot 5 — Output of `curl ifconfig.me` showing the server's public IP address
 
-Add your screenshot here.
+
+![linkedin](./screenshots/SC134.png)
 
 ---
 
@@ -102,13 +104,14 @@ Verify the deployed website and Nginx service are healthy.
 
 #### Screenshot 7 — Output of `systemctl is-enabled nginx`
 
-Add your screenshot here.
+![linkedin](./screenshots/SC131.png)
 
 ---
 
 #### Screenshot 8 — Output of `curl -I http://localhost` showing 200 OK
 
-Add your screenshot here.
+
+![linkedin](./screenshots/SC131.png)
 
 ---
 

@@ -26,7 +26,7 @@ Verify that Bash is available on your system and create a clean workspace for th
 
 #### Screenshot 2 — Output of `pwd` and `ls -lah` showing the scripts directory
 
-![linkedin](./screenshots/SC101.png)
+![pwd](./screenshots/SC101.png)
 
 ---
 
@@ -250,7 +250,7 @@ Use file checks and conditionals to verify whether files and directories exist.
 
 #### Screenshot 1 — Output of `ls -lah ../test-folder`
 
-Add your screenshot here.
+
 
 ---
 
