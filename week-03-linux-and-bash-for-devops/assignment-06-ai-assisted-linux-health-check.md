@@ -108,19 +108,19 @@ Answer the following in your own words:
 
 **1. Which part of this task represents the Gather phase?**
 
-Add your answer here.
+The Gather phase is the read-only inspection of the Ubuntu server. Claude collected information about Nginx, port 80, the HTTP response, disk usage, and memory without making any changes.
 
 ---
 
 **2. Did Claude follow the instruction not to create files? How did you verify this?**
 
-Add your answer here.
+Yes,Claude only ran read-only commands and did not create any files. I verified this by checking the workspace and confirming that no new Bash script or other files were created.
 
 ---
 
 **3. Why is planning before coding useful in DevOps automation?**
 
-Add your answer here.
+Planning helps identify the required checks, organize the workflow, and avoid mistakes before writing the script. This makes the automation safer and more reliable.
 
 ---
 
@@ -162,31 +162,31 @@ Answer the following in your own words:
 
 **1. What is stored in the checks array?**
 
-Add your answer here.
+The checks array stores the names of the five functions that perform the health checks.
 
 ---
 
 **2. How does the `for` loop use that array?**
 
-Add your answer here.
+The for loop goes through each function in the array and runs them one by one to complete all the health checks.
 
 ---
 
 **3. Why are the health checks separated into functions?**
 
-Add your answer here.
+Using functions keeps the script organized, easier to read, and simpler to update or troubleshoot.
 
 ---
 
 **4. What is the purpose of `$(...)` in this script?**
 
-Add your answer here.
+$(...) runs a command and stores its output, such as the hostname, timestamp, disk usage, or HTTP status.
 
 ---
 
 **5. Why does the script use different exit codes for HEALTHY, WARN, and FAIL?**
 
-Add your answer here.
+Different exit codes show the overall result of the health checks: 0 = Healthy, 1 = Warning, and 2 = Fail. This helps users and automation tools quickly understand the server's status.
 
 ---
 
@@ -216,25 +216,24 @@ Answer the following in your own words:
 
 **1. What is the overall status of your healthy baseline?**
 
-Add your answer here.
+HEALTHY. All health checks passed with no failures.
 
 ---
 
 **2. Which exact Linux evidence proves the application is serving traffic?**
 
-Add your answer here.
+The report shows Port 80 is listening and the HTTP check returned status code 200, confirming the application is serving traffic.
 
 ---
 
 **3. Did your script return exit code 0 or 1? Explain why.**
 
-Add your answer here.
-
+My script returned exit code 0 because all health checks passed successfully with no warnings or failures.
 ---
 
 **4. What is the difference between a warning and a failure in this script?**
 
-Add your answer here.
+A warning means the server is still working, but a resource like disk space or memory needs attention. A failure means a critical check, such as Nginx, port 80, or the HTTP response, has failed and requires immediate action.
 
 ---
 
@@ -264,25 +263,25 @@ Answer the following in your own words:
 
 **1. Why does this skill have Bash, Read, and Grep, but not Write?**
 
-Add your answer here.
+It uses Bash to run the health checks, Read to view the report, and Grep to find important results. Write isn't needed because the skill only inspects the server and doesn't modify files.
 
 ---
 
 **2. Why is `disable-model-invocation: true` useful for this skill?**
 
-Add your answer here.
+It prevents Claude from running the skill automatically, so I stay in control of when the server inspection is performed.
 
 ---
 
 **3. What part is performed by Bash, and what part is performed by Claude?**
 
-Add your answer here.
+Bash runs the health checks and generates the report. Claude reads the report, explains the results, and recommends the next steps without making changes.
 
 ---
 
 **4. Why is this better than asking Claude "Is my server healthy?" without giving it evidence?**
 
-Add your answer here.
+It is better because Claude analyzes real server data instead of guessing. This makes the assessment more accurate and reliable.
 
 ---
 
@@ -318,31 +317,31 @@ Answer the following in your own words:
 
 **1. Which three checks failed?**
 
-Add your answer here.
+The Nginx service, port 80, and local HTTP checks failed.
 
 ---
 
 **2. What evidence supports the conclusion that Nginx is unavailable?**
 
-Add your answer here.
+The report shows Nginx is inactive, port 80 is not listening, and the HTTP request returned status code 000, confirming Nginx is unavailable.
 
 ---
 
 **3. Did Claude execute the recovery command? Why is that important?**
 
-Add your answer here.
+No, Claude only suggested the recovery command. This is important because it lets me review the evidence before making changes to the server.
 
 ---
 
 **4. Which phase of the Agentic Loop is represented by the Bash report?**
 
-Add your answer here.
+The Gather phase.
 
 ---
 
 **5. Which phase is represented by Claude's explanation?**
 
-Add your answer here.
+The Analyze phase.
 
 ---
 
@@ -384,31 +383,31 @@ Answer the following in your own words:
 
 **1. What action did you execute manually?**
 
-Add your answer here.
+I manually ran sudo systemctl start nginx.
 
 ---
 
 **2. What evidence proves that the service recovered?**
 
-Add your answer here.
+systemctl is-active nginx returned active, the HTTP request returned 200 OK, and the second triage confirmed all checks passed.
 
 ---
 
 **3. Why is the second triage run necessary?**
 
-Add your answer here.
+It confirms the server is fully healthy after restarting Nginx by checking all health checks again.
 
 ---
 
 **4. What could go wrong if an AI agent automatically restarted every failed service?**
 
-Add your answer here.
+It could hide the real problem or make the issue worse if the root cause isn't fixed first.
 
 ---
 
 **5. In one sentence, explain the difference between using AI as a chatbot and using AI in this agentic workflow.**
 
-Add your answer here.
+A chatbot answers questions, while an agentic workflow uses real system data to analyze the situation and recommend actions before I decide what to do.
 
 ---
 
@@ -424,43 +423,56 @@ Fill in all seven sections below in your own words.
 
 **1. Reported Symptom**
 
-Add your answer here.
+The EpicReads React application became unreachable. A local HTTP check using curl failed, showing that the application was not serving traffic.
 
 ---
 
 **2. Evidence Collected**
 
-Add your answer here.
+The triage script found three failures:
+
+Nginx service inactive (systemctl is-active nginx returned inactive)
+Port 80 not listening (ss showed no port 80 entry)
+HTTP check failed (curl returned status 000)
+
+Disk usage and memory checks passed, showing the issue was related to Nginx, not system resources.
 
 ---
 
 **3. Most Likely Cause**
 
-Add your answer here.
+The most likely cause was that the Nginx service was stopped. Since Nginx was not running, port 80 was unavailable and the application could not receive HTTP requests.
 
 ---
 
 **4. Human-Approved Recovery Action**
 
-Add your answer here.
+sudo systemctl start nginx I reviewed the evidence and manually executed the command.
 
 ---
 
 **5. Verification**
 
-Add your answer here.
+Recovery was confirmed because:
+
+systemctl is-active nginx returned active
+curl -I http://localhost returned HTTP/1.1 200 OK
+A second /linux-triage run showed all checks passed and the system status was HEALTHY
 
 ---
 
 **6. Safety Decision**
 
-Add your answer here.
+Claude was limited to read-only tools and was not allowed to restart services. Keeping a human involved prevents unsafe changes and ensures the root cause is reviewed before recovery actions are taken.
 
 ---
 
 **7. Agentic Loop Mapping**
 
-Add your answer here.
+Gather: Bash collected server health evidence and created the report.
+Analyze: Claude reviewed the report, identified Nginx as the issue, and suggested a fix.
+Human Act: I reviewed and manually ran the recovery command.
+Verify: A second triage confirmed the server was healthy again.
 
 ---
 
