@@ -26,7 +26,7 @@ Verify that Bash is available on your system and create a clean workspace for th
 
 #### Screenshot 2 — Output of `pwd` and `ls -lah` showing the scripts directory
 
-![pwd](./screenshots/SC101.png)
+![pwd](./screenshots/Sc101.png)
 
 ---
 
@@ -376,7 +376,7 @@ Create a final Bash script using functions to organize reusable code.
 
 #### Screenshot 3 — Output of `ls -lah` showing all created scripts
 
-Add your screenshot here.
+![pwd](./screenshots/Sc137.png)
 
 ---
 
