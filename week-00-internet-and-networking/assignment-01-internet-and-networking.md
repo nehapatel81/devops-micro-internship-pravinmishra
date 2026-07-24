@@ -25,7 +25,7 @@ Take a screenshot of your interaction showing:
 
 Save your screenshot in the `screenshots` folder and update the file name below.
 
-![Task 1 Screenshot](screenshots/task1.png)
+![Task 1 Screenshot](screenshots/task-1-chatgpt.png)
 
 
 Replace `task-1-chatgpt.png` with your actual screenshot file name.
@@ -34,7 +34,8 @@ Replace `task-1-chatgpt.png` with your actual screenshot file name.
 
 ## What I Learned (2–3 lines)
 
-I learned that a protocol in networking is a set of rules that helps devices communicate clearly and correctly. A real-life phone conversation made it easier to understand how these rules work in practice. It showed me that, just like humans follow communication rules, computers also rely on protocols for smooth interaction.
+ I learned that a protocol in networking is a set of rules that helps devices communicate clearly and correctly. A real-life phone conversation made it easier to understand how these rules work in practice. It showed me that, just like humans follow communication rules, computers also rely on protocols for smooth interaction.                                                                 
+
 
 ---
 
@@ -91,7 +92,7 @@ EpicReads bookstore has two application versions:
 
 Save your diagram image in the `screenshots` folder and update the file name below.
 
-![Application Architecture Diagram](screenshots/task2.png)
+![Application Architecture Diagram](screenshots/task-3-diagram.png)
 
 
 Replace `task-3-diagram.png` with your actual diagram file name.
@@ -179,7 +180,7 @@ ls
 
 Save your screenshot in the `screenshots` folder and update the file name below.
 
-![VS](screenshots/task3.png)
+![VS](screenshots/task-5-vscode.png)
 
 
 Replace `task-5-vscode.png` with your actual screenshot file name.
@@ -218,8 +219,7 @@ Add the following credit note at the end of your post:
 
 Paste your LinkedIn post URL here:
 
-```text
-https://www.linkedin.com/posts/workwithneha_devops-networking-cloudcomputing-share-7485093914454937600-Bste/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADVmLRoB9dJ70xtJ1M6sDVbSBOiVTmQDql0
+'https://www.linkedin.com/posts/workwithneha_devops-networking-cloudcomputing-share-7485093914454937600-Bste/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADVmLRoB9dJ70xtJ1M6sDVbSBOiVTmQDql0'
 ```
 
 ---
@@ -261,10 +261,10 @@ It helps learners build strong DevOps foundations with hands-on experience.
 
 ## 📌 Resources
 
-- 🌐 **DMI Official Website:** https://pravinmishra.com/dmi  
-- 🎓 **DevOps for Beginners (Udemy):** https://www.udemy.com/course/devops-for-beginners-docker-k8s-cloud-cicd-4-projects/  
-- 🎓 **Ultimate Agentic AI DevOps with Clude Code** https://www.udemy.com/course/ultimate-agentic-ai-devops-with-claude-code/?referralCode=448389767BC96284087B
-- 🎓 **DevOps with Claude Code: Terraform, EKS, ArgoCD & Helm** https://www.udemy.com/course/devops-with-claude-code-terraform-eks-argocd-helm/?referralCode=1C5B734505D65A010FA3
+- 🌐 **DMI Official Website:** https://dmi.pravinmishra.com?utm_source=github&utm_medium=readme  
+- 🎓 **University:** https://university.pravinmishra.com?utm_source=github&utm_medium=readme  
+- 💬 **Discord Community:** https://discord.pravinmishra.com?utm_source=github&utm_medium=readme  
+- 📝 **Blog:** https://dmi.pravinmishra.com/blog?utm_source=github&utm_medium=readme  
 - ▶️ **YouTube Playlist (DMI Cohort 3):** https://www.youtube.com/playlist?list=PLFeSNDtI4Cho  
 - 🔗 **Pravin Mishra (LinkedIn):** https://www.linkedin.com/in/pravin-mishra-aws-trainer/  
 - 🏢 **CloudAdvisory (LinkedIn):** https://www.linkedin.com/company/thecloudadvisory/
