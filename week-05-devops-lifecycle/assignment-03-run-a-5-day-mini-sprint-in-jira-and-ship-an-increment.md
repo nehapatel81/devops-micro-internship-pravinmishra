@@ -107,13 +107,13 @@ Improve the footer's spacing, contrast, and readability, then validate it at bot
 
 #### Screenshot 11 — Desktop EC2 view showing the polished footer
 
-![SC](./screenshots/sc28.png)
+![SC](./screenshots/sc29.png)
 
 ---
 
 #### Screenshot 12 — Mobile responsive view showing the footer remains readable
 
-![SC](./screenshots/sc29.png)
+![SC](./screenshots/sc28.png)
 
 ---
 
