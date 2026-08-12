@@ -40,25 +40,28 @@ Add the required footer text (`Pravin Mishra Portfolio v1.0 — Deployed on <DD 
 
 #### Screenshot 3 — Jira board showing the Day 1 Sub-task in Done
 
-![SC](./screenshots/sc20.png)
+![SC](./screenshots/sc23.png)
+
 
 ---
 
 #### Screenshot 4 — Successful Git commit output
 
-![SC](./screenshots/sc21.png)
+![SC](./screenshots/sc20.png)
+
 
 ---
 
 #### Screenshot 5 — EC2 browser view showing the complete footer text, with the URL visible
 
-![SC](./screenshots/sc22.png)
+![SC](./screenshots/sc21.png)
+
 
 ---
 
 #### Screenshot 6 — Jira Story comment showing the Day 1 Daily Scrum update
 
-![SC](./screenshots/sc23.png)
+![SC](./screenshots/sc22.png)
 
 ---
 
