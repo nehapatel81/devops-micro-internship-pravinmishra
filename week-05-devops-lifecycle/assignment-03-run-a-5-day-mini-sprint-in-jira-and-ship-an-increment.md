@@ -81,13 +81,13 @@ Update the footer so the deployment date is generated automatically (or updated 
 
 #### Screenshot 8 — EC2 browser view showing the updated footer with the current date
 
-![SC](./screenshots/sc24.png)
+![SC](./screenshots/sc26.png)
 
 ---
 
 #### Screenshot 9 — README snippet documenting the footer and date behavior
 
-![SC](./screenshots/sc26.png)
+![SC](./screenshots/sc24.png)
 
 ---
 
