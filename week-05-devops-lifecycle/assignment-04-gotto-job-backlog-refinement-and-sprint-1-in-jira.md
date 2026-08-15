@@ -28,7 +28,13 @@ Choose Team Mode or Solo Mode, and document how each Scrum role (Product Owner, 
 
 Write one line for each role: PO (what you prioritized), SM (how you ensured process), Dev Lead (what you built), DevOps Lead (how you shipped).
 
-Write your answer here.
+Product Owner (PO): Responsible for prioritizing the backlog and deciding which tasks should be completed first. Since this is Solo Mode, I will personally rank the Stories based on their value to the user and the business in Task 4.
+
+Scrum Master (SM): Responsible for ensuring that the Scrum process is followed correctly. This includes managing the sprint timeline, conducting Scrum activities such as planning and retrospectives, and keeping myself accountable to the agreed Scrum practices.
+
+Dev Lead: Responsible for developing and implementing the selected Story. In Task 8, this involves making the required UI changes and ensuring that the implementation works as expected.
+
+DevOps Lead: Responsible for deploying the completed work and verifying the deployment. This includes committing the changes to Git, deploying the application, and confirming that the updated version is live and functioning correctly.
 
 ---
 
@@ -98,7 +104,33 @@ Confirm the Story Points (1, 2, or 3) for each Story and record brief reasoning 
 
 For each story, explain in one or two lines why it is a 1, 2, or 3 (mention any debate, even in Solo Mode).
 
-Write your answer here.
+S1 – Hero Tagline (1 point):
+This only requires replacing the existing heading text, making it a small and straightforward change. There is minimal effort and no additional functionality involved.
+
+S2 – Button Colour (1 point):
+This involves updating the button colour using CSS. I briefly considered 2 points because multiple buttons are involved, but kept it at 1 point since the styling change itself is simple.
+
+S3 – Job Card Typography (2 points):
+This requires changing the font size and font weight, followed by checking the layout across different screen sizes. The combination of styling and responsive testing makes it slightly more involved.
+
+S4 – REMOTE Badge (2 points):
+This requires creating a new badge and ensuring it appears only for remote jobs. Because it involves additional display logic rather than a simple text or style change, I estimated it at 2 points.
+
+S5 – Posted On Date (1 point):
+This involves adding the posted date as text without requiring additional logic or complex functionality, making it a straightforward 1-point task.
+
+S6 – Search Labels (2 points):
+Several labels and placeholders need to be updated, followed by testing to ensure all the changes work correctly. Since multiple UI elements are involved, I estimated it at 2 points.
+
+S7 – Job Detail “Apply Now” Button (1 point):
+This requires adding an “Apply Now” button with an email address or placeholder link. Since no complex functionality is required, I estimated it at 1 point.
+
+S8 – Footer Trust Links (1 point):
+This involves adding two simple footer links — “About” and “Contact.” It is a small HTML change with no complex functionality, so I estimated it at 1 point.
+
+Total Backlog Estimate: 11 Story Points
+
+1 + 1 + 2 + 2 + 1 + 2 + 1 + 1 = 11 points
 
 ---
 
@@ -146,19 +178,19 @@ Implement one small UI-only Story from Sprint 1, commit it, deploy it live, and 
 
 #### Screenshot 10 — Jira board showing the Story moved to Done
 
-![SC](./screenshots/sc45.png)
+![SC](./screenshots/sc50.png)
 
 ---
 
 #### Screenshot 11 — Git commit output
 
-![SC](./screenshots/sc46.png)
+![SC](./screenshots/sc47.png)
 
 ---
 
 #### Screenshot 12 — Live URL in the browser showing the UI change, with the URL visible
 
-![SC](./screenshots/sc47.png)
+![SC](./screenshots/sc46.png)
 
 ---
 
