@@ -104,13 +104,13 @@ Create a Launch Template whose user data installs the web-server runtime, deploy
 
 #### Screenshot 11 — Launch Template details showing that user data exists, including a visible snippet
 
-![SC](./screenshots/sc41.png)
+![SC](./screenshots/sc40.png)
 
 ---
 
 #### Screenshot 12 — A running instance created from the template showing that the application responds on port 80 through a local test or browser using its public IP
 
-![SC](./screenshots/sc42.png)
+![SC](./screenshots/sc41.png)
 
 ---
 
@@ -124,13 +124,13 @@ Create an internet-facing ALB across both public subnets with an HTTP listener a
 
 #### Screenshot 13 — ALB details showing two public subnets in two Availability Zones
 
-![SC](./screenshots/sc43.png)
+![SC](./screenshots/sc42.png)
 
 ---
 
 #### Screenshot 14 — Target group showing at least one healthy target
 
-![SC](./screenshots/sc28.png)
+![SC](./screenshots/sc43.png)
 
 ---
 
@@ -144,7 +144,7 @@ Create an Auto Scaling Group from the Launch Template across both public subnets
 
 #### Screenshot 15 — Auto Scaling Group showing desired, minimum, and maximum capacity and the selected subnet Availability Zones
 
-![SC](./screenshots/sc28.png)
+![SC](./screenshots/44.png)
 
 ---
 
