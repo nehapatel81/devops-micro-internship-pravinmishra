@@ -90,7 +90,7 @@ Launch a private, Multi-AZ RDS database (MySQL or PostgreSQL) using the private 
 
 #### Screenshot 10 — RDS connectivity section showing the DB Subnet Group and Security Group
 
-![SC](./screenshots/sc40.png)
+![SC](./screenshots/sc39.png)
 
 ---
 
