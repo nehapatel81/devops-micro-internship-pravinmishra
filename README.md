@@ -140,8 +140,8 @@ Week 02 → Agentic AI with Claude Code
 | 02 | Agentic AI with Claude Code | ✅ Completed | ✅ Solved  |https://www.linkedin.com/posts/workwithneha_dmibypravinmishra-agenticai-claudecode-activity-7481445428375285761-OjaU?utm_source=share&utm_medium=member_desktop&rcm=ACoAADVmLRoB9dJ70xtJ1M6sDVbSBOiVTmQDql0 | https://medium.com/@workwithneha/week-2-reflection-building-smarter-systems-with-agentic-ai-b79801c7a108 |
 | 03 | Linux & Bash for DevOps | ✅ Completed | ✅ Solved  | https://www.linkedin.com/posts/workwithneha_dmibypravinmishra-agenticai-devops-activity-7484080535300907008-LPxv?utm_source=share&utm_medium=member_desktop&rcm=ACoAADVmLRoB9dJ70xtJ1M6sDVbSBOiVTmQDql0 | https://medium.com/@workwithneha/week-03-learning-linux-and-bash-building-the-foundation-for-devops-b46e7c3c0203 |
 | 04 | Git & GitHub | ✅ Completed | ✅ Solved  | https://www.linkedin.com/posts/workwithneha_devops-networking-cloudcomputing-share-7485482231172562944-Bgvp/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADVmLRoB9dJ70xtJ1M6sDVbSBOiVTmQDql0| https://medium.com/@workwithneha/week-04-reflection-my-git-github-journey-bf06e481a9aa |
-| 05 | DevOps Lifecycle & Agile | ✅ Completed | ✅ Solved |https://www.linkedin.com/posts/workwithneha_dmibypravinmishra-git-github-ugcPost-7494269467560968193-Zt-Q/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADVmLRoB9dJ70xtJ1M6sDVbSBOiVTmQDql0 |https://medium.com/@workwithneha/week-5-of-my-devops-micro-internship-jira-scrum-and-ai-assisted-sprint-health-27b4c548e347|
-| 06 | AWS Cloud | ⬜ Not Started | ⏳ Pending | — | — |
+| 05 | DevOps Lifecycle & Agile | ✅ Completed | ✅ Solved |https://www.linkedin.com/posts/workwithneha_dmibypravinmishra-git-github-ugcPost-7494269467560968193-Zt-Q/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADVmLRoB9dJ70xtJ1M6sDVbSBOiVTmQDql0 | https://medium.com/@workwithneha/week-5-of-my-devops-micro-internship-jira-scrum-and-ai-assisted-sprint-health-27b4c548e347|
+| 06 | AWS Cloud | 🔄 In Progress | 🔄 In Progress | — | — |
 | 07 | Azure Cloud | ⬜ Not Started | ⏳ Pending | — | — |
 | 08 | Terraform | ⬜ Not Started | ⏳ Pending | — | — |
 | 09 | Ansible | ⬜ Not Started | ⏳ Pending | — | — |
