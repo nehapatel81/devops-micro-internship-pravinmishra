@@ -70,13 +70,13 @@ Capture visual proof of every tier and load balancer.
 
 #### Web EC2
 
-Add your screenshot here.
+![SC](./screenshots/54.png)
 
 ---
 
 #### App EC2
 
-Add your screenshot here.
+![SC](./screenshots/55.png)
 
 ---
 
