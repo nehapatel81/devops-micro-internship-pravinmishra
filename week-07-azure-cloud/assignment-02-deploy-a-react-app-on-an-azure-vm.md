@@ -151,7 +151,7 @@ Restrict the SSH Network Security Group rule to your IP if not already restricte
 - [x] Task 6: Nginx configured with SPA routing support (Screenshots 7 & 8)
 - [x] Task 7: App verified via the VM public IP, including route refresh (Screenshot 9)
 - [x] Task 8: SSH hardening applied (Screenshot 10, optional)
-- [] No sensitive data exposed
+- [x] No sensitive data exposed
 
 ---
 

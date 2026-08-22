@@ -44,7 +44,7 @@ Confirm successful Azure Portal access and Locate the required services and subs
 
 Write a three-to-four-line paragraph explaining which Azure services you plan to explore first and why.
 
-Write your answer here.
+I plan to explore Azure Virtual Machines, Virtual Networks, and Azure Storage first because I am using Azure’s free services to gain hands-on experience with my application. Working with these services will help me understand how to deploy an application, configure networking, and manage data in a real cloud environment. This practical experience will strengthen my Azure skills and prepare me for real-world cloud projects.
 
 ---
 
