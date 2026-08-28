@@ -105,7 +105,7 @@ Create a private Azure Database for MySQL Flexible Server (VNet Integration) in 
 
 #### Screenshot 11 — MySQL Client output showing the EpicBook database or imported tables (no password visible)
 
-![SC](./screenshots/sc32.png)
+![SC](./screenshots/sc33.png)
 
 ---
 
