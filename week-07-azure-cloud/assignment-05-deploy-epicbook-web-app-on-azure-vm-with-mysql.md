@@ -73,7 +73,7 @@ Clone the EpicBook repository, install dependencies, build the frontend, configu
 
 #### Screenshot 7 — Nginx configuration or service status proving the frontend is configured to be served
 
-![SC](./screenshots/sc28.png)
+![SC](./screenshots/sc30.png)
 
 ---
 
