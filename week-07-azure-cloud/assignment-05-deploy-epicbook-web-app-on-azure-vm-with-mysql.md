@@ -79,7 +79,7 @@ Clone the EpicBook repository, install dependencies, build the frontend, configu
 
 #### Screenshot 8 — Backend process or listening-port evidence (without exposing environment-variable secrets)
 
-![SC](./screenshots/sc29.png)
+![SC](./screenshots/sc34.png)
 
 ---
 
