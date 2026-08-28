@@ -93,13 +93,13 @@ Create a private Azure Database for MySQL Flexible Server (VNet Integration) in 
 
 #### Screenshot 9 — MySQL Flexible Server overview showing Private access (VNet Integration)
 
-![SC](./screenshots/sc30.png)
+![SC](./screenshots/sc31.png)
 
 ---
 
 #### Screenshot 10 — Networking configuration showing the private subnet and restricted access
 
-![SC](./screenshots/sc31.png)
+![SC](./screenshots/sc32.png)
 
 ---
 
