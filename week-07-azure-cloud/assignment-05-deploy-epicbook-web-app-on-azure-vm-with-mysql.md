@@ -33,7 +33,7 @@ Create a VNet (10.0.0.0/16) with a public subnet (10.0.1.0/24) for the VM and a 
 
 #### Screenshot 3 — Public IP and Network Interface association for the Virtual Machine
 
-![SC](./screenshots/sc24.png)
+![SC](./screenshots/sc26.png)
 
 ---
 
@@ -53,7 +53,7 @@ Launch an Ubuntu 22.04 LTS VM (Standard B1s or equivalent) in the public subnet,
 
 #### Screenshot 5 — Terminal showing successful software installation or installed-version checks
 
-![SC](./screenshots/sc26.png)
+
 
 ---
 
