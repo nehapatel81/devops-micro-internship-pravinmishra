@@ -52,7 +52,7 @@ Launch an Ubuntu 22.04 LTS VM (Standard B1s or equivalent) in the public subnet,
 ---
 
 #### Screenshot 5 — Terminal showing successful software installation or installed-version checks
-![SC](./screenshots/sc27.png)
+![SC](./screenshots/sc28.png)
 
 
 ---
