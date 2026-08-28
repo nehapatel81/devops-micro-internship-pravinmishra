@@ -47,7 +47,7 @@ Launch an Ubuntu 22.04 LTS VM (Standard B1s or equivalent) in the public subnet,
 
 #### Screenshot 4 — Virtual Machine overview showing Ubuntu, size, public IP, and subnet
 
-![SC](./screenshots/sc25.png)
+![SC](./screenshots/sc27.png)
 
 ---
 
