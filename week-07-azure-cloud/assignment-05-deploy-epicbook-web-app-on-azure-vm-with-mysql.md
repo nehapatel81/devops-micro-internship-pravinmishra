@@ -27,6 +27,7 @@ Create a VNet (10.0.0.0/16) with a public subnet (10.0.1.0/24) for the VM and a 
 #### Screenshot 2 — Public and private NSG inbound rules showing ports 80, 22, and restricted 3306 access
 
 ![SC](./screenshots/sc24.png)
+![SC](./screenshots/sc25.png)
 
 ---
 
