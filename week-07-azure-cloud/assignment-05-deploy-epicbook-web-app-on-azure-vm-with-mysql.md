@@ -67,7 +67,7 @@ Clone the EpicBook repository, install dependencies, build the frontend, configu
 
 #### Screenshot 6 — Terminal showing the EpicBook repository cloned and dependencies installed
 
-![SC](./screenshots/sc27.png)
+![SC](./screenshots/sc28.png)
 
 ---
 
