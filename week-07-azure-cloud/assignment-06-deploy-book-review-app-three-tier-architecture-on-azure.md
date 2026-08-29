@@ -107,7 +107,7 @@ Deploy the Book Review App backend privately in the application subnet, configur
 
 #### Screenshot 10 — Application-tier compute overview showing private subnet placement
 
-![SC](./screenshots/sc35.png)
+![SC](./screenshots/sc55.png)
 
 ---
 
