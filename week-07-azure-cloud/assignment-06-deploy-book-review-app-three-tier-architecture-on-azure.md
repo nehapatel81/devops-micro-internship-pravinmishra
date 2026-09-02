@@ -201,7 +201,7 @@ Confirm the Book Review App works end to end through the public endpoint, with a
 
 #### Screenshot 19 — Browser showing the Book Review App through the public endpoint
 
-![SC](./screenshots/sc35.png)
+![SC](./screenshots/sc45.png)
 
 ---
 
