@@ -147,13 +147,13 @@ Create a private Azure managed database (public access disabled), with availabil
 
 #### Screenshot 13 — Database overview showing private connectivity and public access disabled
 
-![SC](./screenshots/sc53.png)
+![SC](./screenshots/sc49.png)
 
 ---
 
 #### Screenshot 14 — Availability, backup, and retention configuration
 
-![SC](./screenshots/sc35.png)
+![SC](./screenshots/sc53.png)
 
 ---
 
