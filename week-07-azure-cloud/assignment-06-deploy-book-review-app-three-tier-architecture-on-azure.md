@@ -159,7 +159,7 @@ Create a private Azure managed database (public access disabled), with availabil
 
 #### Screenshot 15 — Successful schema or connectivity verification (without exposing credentials)
 
-![SC](./screenshots/sc35.png)
+![SC](./screenshots/sc42.png)
 
 ---
 
