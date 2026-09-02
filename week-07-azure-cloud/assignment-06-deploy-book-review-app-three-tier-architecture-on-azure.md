@@ -174,7 +174,9 @@ Configure the approved public entry service with health probes and backend pools
 #### Screenshot 16 — Public entry service showing listener, frontend endpoint, and healthy web targets
 
 ![SC](./screenshots/sc46.png)
-
+![SC](./screenshots/sc47.png)
+![SC](./screenshots/sc48.png)
+![SC](./screenshots/sc49.png)
 ---
 
 #### Screenshot 17 — Internal application-tier load-balancing or routing configuration where applicable
