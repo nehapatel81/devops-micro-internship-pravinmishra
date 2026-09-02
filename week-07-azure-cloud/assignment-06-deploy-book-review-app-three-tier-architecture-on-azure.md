@@ -213,7 +213,7 @@ Confirm the Book Review App works end to end through the public endpoint, with a
 
 #### Screenshot 21 — Evidence that private tiers are not publicly accessible
 
-![SC](./screenshots/sc35.png)
+![SC](./screenshots/sc50.png)
 
 ---
 
