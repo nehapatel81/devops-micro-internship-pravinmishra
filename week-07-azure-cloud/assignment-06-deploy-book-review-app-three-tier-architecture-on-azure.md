@@ -228,7 +228,7 @@ Confirm the Book Review App works end to end through the public endpoint, with a
 
 Paste your public endpoint URL here:
 
-`Add your URL here`
+`http://40.86.213.69/`
 
 ---
 
