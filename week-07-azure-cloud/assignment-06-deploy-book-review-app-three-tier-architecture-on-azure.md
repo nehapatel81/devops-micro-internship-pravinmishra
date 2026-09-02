@@ -20,13 +20,27 @@ Create an architecture diagram and implementation plan identifying the presentat
 
 #### Screenshot 1 — Architecture diagram showing the public entry point, three tiers, network boundaries, and traffic flow
 
-![SC](./screenshots/#.png)
+![SC](./screenshots/sc60.png)
 
 ---
 
 #### Screenshot 2 — Written architecture assumptions and selected Azure services
 
-![SC](./screenshots/#.png)
+The Book Review application is designed using a three-tier architecture on Microsoft Azure. The architecture assumes that all resources are deployed within a single Azure region to simplify management, reduce latency, and control costs. The public-facing entry point is an Azure Standard Load Balancer, which receives HTTP traffic from the internet and forwards requests to the web tier. The web tier consists of an Azure Virtual Machine running Ubuntu Linux, Nginx, and the React/Next.js frontend. The application tier runs the Node.js/Express backend and handles API requests and business logic. The database tier uses Azure Database for MySQL – Flexible Server to store book reviews and application data.
+
+The architecture separates the web, application, and database components into different Azure Virtual Network subnets. Network Security Groups are used to restrict traffic between tiers and prevent direct public access to private resources. The database is placed in a private subnet and is accessible only from the application tier. The design assumes that administrative access to the virtual machines is restricted through SSH and that unnecessary inbound ports are blocked. Azure Monitor and diagnostic settings are used for monitoring, logging, and operational visibility.
+
+Selected Azure services:
+
+Azure Virtual Network (VNet) – Provides the private network environment.
+Azure Standard Load Balancer – Provides the public entry point and distributes HTTP traffic to the web tier.
+Azure Virtual Machine – Hosts the web/application workloads.
+Network Security Groups (NSGs) – Control inbound and outbound network traffic between tiers.
+Azure Database for MySQL – Flexible Server – Provides the managed relational database.
+Azure Monitor – Provides monitoring, metrics, and diagnostic information.
+Nginx – Acts as the web server/reverse proxy on the Linux VM.
+Node.js/Express – Provides the backend REST API and application logic.
+React/Next.js – Provides the user-facing web application.
 
 ---
 
@@ -113,13 +127,13 @@ Deploy the Book Review App backend privately in the application subnet, configur
 
 #### Screenshot 11 — Backend process, service, or listening-port evidence
 
-![SC](./screenshots/sc35.png)
+![SC](./screenshots/sc43.png)
 
 ---
 
 #### Screenshot 12 — Internal health-check or API response (without exposing secrets)
 
-![SC](./screenshots/sc35.png)
+![SC](./screenshots/sc44.png)
 
 ---
 
@@ -133,7 +147,7 @@ Create a private Azure managed database (public access disabled), with availabil
 
 #### Screenshot 13 — Database overview showing private connectivity and public access disabled
 
-![SC](./screenshots/sc35.png)
+![SC](./screenshots/sc42.png)
 
 ---
 
