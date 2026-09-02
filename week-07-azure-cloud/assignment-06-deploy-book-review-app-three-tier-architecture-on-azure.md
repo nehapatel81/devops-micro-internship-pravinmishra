@@ -219,7 +219,8 @@ Confirm the Book Review App works end to end through the public endpoint, with a
 
 #### Screenshot 22 — Availability-test and healthy-target evidence
 
-![SC](./screenshots/sc35.png)
+![SC](./screenshots/sc51.png)
+![SC](./screenshots/sc52.png)
 
 ---
 
