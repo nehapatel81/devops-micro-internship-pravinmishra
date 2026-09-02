@@ -173,7 +173,7 @@ Configure the approved public entry service with health probes and backend pools
 
 #### Screenshot 16 — Public entry service showing listener, frontend endpoint, and healthy web targets
 
-![SC](./screenshots/sc35.png)
+![SC](./screenshots/sc46.png)
 
 ---
 
