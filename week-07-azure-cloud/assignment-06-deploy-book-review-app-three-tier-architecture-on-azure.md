@@ -236,7 +236,27 @@ Paste your public endpoint URL here:
 
 Summarize what worked, issues encountered and how they were fixed, and the availability/security/secrets/monitoring/backup choices made.
 
-Write your answer here.
+hree-tier architecture: Successfully isolated the Web, App, and Database tiers across two Availability Zones using dedicated subnets and security groups.
+Load balancing: Both the public and internal Application Load Balancers successfully distributed traffic and maintained healthy targets.
+End-to-end traffic flow: Successfully validated the complete request path: Internet → Public ALB → Nginx Reverse Proxy → Internal ALB → Express Backend → RDS MySQL.
+Database deployment: Used a single-AZ RDS MySQL deployment to keep costs within the free-tier budget while maintaining database availability.
+Private subnet security: Verified that EC2 instances in private subnets remained securely isolated without public IP addresses.
+Issues Encountered and Fixes
+App-tier outbound connectivity: Session Manager initially hung because the private instances lacked connectivity to AWS Systems Manager. This was resolved by creating three VPC Interface Endpoints: SSM, SSMMessages, and EC2Messages, allowing secure private communication without requiring internet access.
+Temporary NAT Gateway access: A temporary NAT Gateway was created in a public subnet and added to the private route table to provide internet access for package installation. After installation was completed, the NAT Gateway was deleted to avoid unnecessary costs and comply with assignment requirements.
+Security group port 80 confusion: Initially attempted to access the web instances directly through their public IPs. After reviewing the security group configuration, it was confirmed that web-sg correctly allowed port 80 traffic only from web-alb-sg. Testing was therefore performed through the Public ALB as intended.
+Frontend API routing issue: Requests were initially generating /api/api/books because the API path was duplicated. The backend .env file also had an incorrect ALLOWED_ORIGINS value that only permitted localhost. The issue was resolved by adding the Public ALB DNS name to the CORS whitelist and removing the redundant /api/ prefix from page.js.
+Internal ALB security group: The internal-alb-sg initially allowed port 3001 but did not allow HTTP traffic on port 80 from the Web tier. A port 80 inbound rule from web-sg was added so Nginx could successfully communicate with the Internal ALB.
+Nginx proxy routing: Added a /api/ location block to Nginx to forward API requests to the Internal ALB. The frontend .env.local was also updated to use the relative /api path instead of the internal ALB URL, allowing browser requests to follow the intended architecture.
+Tools and Sources Used
+AWS Console: VPC, EC2, RDS, Load Balancers, and Security Groups
+Claude AI: Architecture guidance, troubleshooting, and code debugging
+Vim: Configuration file editing on EC2 instances
+AWS Systems Manager Session Manager: Secure terminal access to private EC2 instances
+Browser DevTools: Network tab for diagnosing API and routing errors
+Git: Cloning and managing the application repository
+npm: Package installation and dependency management
+PM2: Process management and keeping the Node.js application running persistently
 
 ---
 
