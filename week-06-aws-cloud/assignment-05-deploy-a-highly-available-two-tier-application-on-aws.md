@@ -84,7 +84,7 @@ Launch a private, Multi-AZ RDS database (MySQL or PostgreSQL) using the private 
 
 #### Screenshot 9 — RDS summary showing Multi-AZ = Yes and Publicly accessible = No
 
-![SC](./screenshots/sc44.png)
+![SC](./screenshots/sc39.png)
 
 ---
 
