@@ -111,7 +111,7 @@ Confirm through Azure CLI that the virtual machine was created successfully and 
 
 #### Screenshot 10 — Azure CLI output showing the deployed VM name and `VM running` status
 
-![SC](./screenshots/sc9.png)
+![SC](./screenshots/sc13.png)
 
 ---
 
