@@ -80,13 +80,14 @@ Review the Terraform execution plan and provision the Azure resources.
 
 #### Screenshot 7 — Terraform plan summary showing the proposed resources
 
-![SC](./screenshots/sc7.png)
+![SC](./screenshots/sc8.png)
+![SC](./screenshots/sc9.png)
 
 ---
 
 #### Screenshot 8 — Terraform apply output showing successful completion
 
-Add your screenshot here.
+![SC](./screenshots/sc7.png)
 
 ---
 
