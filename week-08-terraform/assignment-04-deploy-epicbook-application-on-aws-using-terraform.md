@@ -125,7 +125,7 @@ Add a screenshot of VS Code showing the Internet Gateway, public route table, an
 
 Add a screenshot of VS Code showing the EC2 and RDS Security Groups, including MySQL access from the EC2 Security Group only.
 
-![SC](./screenshots/sc48.png)
+![SC](./screenshots/sc.png)
 
 ---
 
@@ -161,7 +161,7 @@ The `user_data.sh` script must install the required software without storing dat
 
 Add a screenshot of VS Code showing the EC2 resource and `user_data` configuration.
 
-![SC](./screenshots/sc52.png)
+![SC](./screenshots/sc49.png)
 
 ---
 
@@ -171,7 +171,7 @@ Add a screenshot of VS Code showing `user_data.sh`.
 
 Ensure that no credentials, passwords, private keys, access tokens, or application secrets are visible.
 
-![SC](./screenshots/sc52.png)
+![SC](./screenshots/sc50.png)
 
 ---
 
@@ -179,7 +179,7 @@ Ensure that no credentials, passwords, private keys, access tokens, or applicati
 
 Add a screenshot of VS Code showing the EC2 module variables and outputs.
 
-![SC](./screenshots/sc52.png)
+![SC](./screenshots/sc51.png)
 
 ---
 
@@ -215,7 +215,7 @@ Add a screenshot of VS Code showing `publicly_accessible = false`, the RDS Secur
 
 Ensure that the database password and other sensitive values are hidden.
 
-![SC](./screenshots/sc52.png)
+![SC](./screenshots/sc53.png)
 
 ---
 
