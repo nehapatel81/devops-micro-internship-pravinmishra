@@ -109,7 +109,7 @@ Add your screenshot here.
 
 Add a screenshot of VS Code showing the public IP `output` block in `main.tf`.
 
-Add your screenshot here.
+![SC](./screenshots/sc36.png)
 
 ---
 
@@ -125,7 +125,7 @@ Initialize the Terraform working directory and download the required provider co
 
 Add a screenshot of the terminal showing successful `terraform init` output.
 
-Add your screenshot here.
+![SC](./screenshots/sc35.png)
 
 ---
 
