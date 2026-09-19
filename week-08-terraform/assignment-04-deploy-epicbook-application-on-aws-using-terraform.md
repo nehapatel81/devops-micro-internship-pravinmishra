@@ -279,7 +279,7 @@ Add a screenshot of the terminal showing successful `terraform init` output.
 
 Add a screenshot of the terminal showing successful `terraform validate` output.
 
-![SC](./screenshots/sc52.png)
+![SC](./screenshots/sc60.png)
 
 ---
 
@@ -287,7 +287,7 @@ Add a screenshot of the terminal showing successful `terraform validate` output.
 
 Add a screenshot showing the Terraform plan summary and proposed resources.
 
-![SC](./screenshots/sc52.png)
+![SC](./screenshots/sc61.png)
 
 ---
 
