@@ -135,13 +135,13 @@ Confirm that:
 
 #### Screenshot 8 — AWS CLI output showing the EC2 instance ID, `running` state, and public IP address
 
-
+![SC](./screenshots/sc26.png)
 
 ---
 
 #### Screenshot 9 — Browser showing the Nginx page successfully loaded using the EC2 instance public IP
 
-![SC](./screenshots/sc23.png)
+![SC](./screenshots/sc27.png)
 
 ---
 
@@ -155,7 +155,7 @@ Remove all AWS resources created by Terraform after completing the deployment an
 
 #### Screenshot 10 — Terminal showing successful `terraform destroy` completion
 
-![SC](./screenshots/sc24.png)
+![SC](./screenshots/sc28.png)
 
 ---
 
