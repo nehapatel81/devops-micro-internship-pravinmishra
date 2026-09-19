@@ -163,7 +163,7 @@ Add a screenshot showing the VM public IP address returned by `terraform output`
 
 Record the public IP address displayed by `terraform output`.
 
-**VM Public IP Address:** Add the VM public IP address here
+**VM Public IP Address:** : 102.133.166.237
 
 ---
 
