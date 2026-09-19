@@ -179,7 +179,7 @@ Connect to the Azure Linux virtual machine and confirm that the cloud-init/user 
 
 Add a screenshot of the SSH terminal showing a successful connection to the Azure VM and evidence that the React application deployment completed.
 
-Add your screenshot here.
+![SC](./screenshots/sc40.png)
 
 ---
 
@@ -187,7 +187,7 @@ Add your screenshot here.
 
 Add a screenshot of the terminal showing that the Nginx service is running successfully.
 
-Add your screenshot here.
+![SC](./screenshots/sc39.png)
 
 ---
 
