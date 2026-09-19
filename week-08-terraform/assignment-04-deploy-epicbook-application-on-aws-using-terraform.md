@@ -80,7 +80,7 @@ terraform-aws-epicbook/
 
 Add a screenshot of the VS Code Explorer showing the complete root project and the `network`, `ec2`, and `rds` module directory structure.
 
-![SC](./screenshots/sc52.png)
+![SC](./screenshots/sc45.png)
 
 ---
 
@@ -109,7 +109,7 @@ The network module must include:
 
 Add a screenshot of VS Code showing the VPC, public subnet, and two private database subnet configurations.
 
-![SC](./screenshots/sc52.png)
+![SC](./screenshots/sc46.png)
 
 ---
 
@@ -117,7 +117,7 @@ Add a screenshot of VS Code showing the VPC, public subnet, and two private data
 
 Add a screenshot of VS Code showing the Internet Gateway, public route table, and route table association.
 
-![SC](./screenshots/sc52.png)
+![SC](./screenshots/sc47.png)
 
 ---
 
@@ -125,7 +125,7 @@ Add a screenshot of VS Code showing the Internet Gateway, public route table, an
 
 Add a screenshot of VS Code showing the EC2 and RDS Security Groups, including MySQL access from the EC2 Security Group only.
 
-![SC](./screenshots/sc52.png)
+![SC](./screenshots/sc48.png)
 
 ---
 
@@ -133,7 +133,7 @@ Add a screenshot of VS Code showing the EC2 and RDS Security Groups, including M
 
 Add a screenshot of VS Code showing the network module outputs.
 
-![SC](./screenshots/sc52.png)
+![SC](./screenshots/sc48.png)
 
 ---
 
