@@ -99,13 +99,13 @@ Review the Terraform execution plan, provision the AWS resources, and record the
 
 #### Screenshot 6 — Terraform apply output showing successful completion
 
-
+![SC](./screenshots/sc24.png)
 
 ---
 
 #### Screenshot 7 — Terraform output showing the public IP address of the EC2 instance
 
-
+![SC](./screenshots/sc25.png)
 
 ---
 
