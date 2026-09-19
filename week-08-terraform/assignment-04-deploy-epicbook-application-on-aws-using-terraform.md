@@ -223,7 +223,7 @@ Ensure that the database password and other sensitive values are hidden.
 
 Add a screenshot of VS Code showing the RDS endpoint output.
 
-![SC](./screenshots/sc52.png)
+![SC](./screenshots/sc54.png)
 
 ---
 
@@ -239,7 +239,7 @@ Use the root Terraform configuration to call the Network, EC2, and RDS modules a
 
 Add a screenshot of VS Code showing the root `main.tf` with the Network, EC2, and RDS module blocks.
 
-![SC](./screenshots/sc52.png)
+![SC](./screenshots/sc55.png)
 
 ---
 
