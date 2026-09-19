@@ -187,7 +187,7 @@ Add a screenshot of the SSH terminal showing a successful connection to the Azur
 
 Add a screenshot of the terminal showing that the Nginx service is running successfully.
 
-![SC](./screenshots/sc39.png)
+![SC](./screenshots/sc43.png)
 
 ---
 
