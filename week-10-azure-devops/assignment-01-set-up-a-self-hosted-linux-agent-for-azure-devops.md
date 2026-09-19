@@ -119,14 +119,14 @@ Write your answer here.
 
 # Completion Checklist
 
-- [ ] Task 1: PAT created with required scopes and stored securely
-- [ ] Task 2: Self-hosted agent pool created (Screenshot 1)
-- [ ] Task 3: Ubuntu VM provisioned and SSH verified (Screenshots 2–3)
-- [ ] Task 4: Agent installed, registered, and running as a service (Screenshots 4–5)
-- [ ] Task 5: Agent verified Online (Screenshot 6)
-- [ ] Task 6: Test pipeline run successfully (Screenshot 7)
-- [ ] Platform/org/pool details and issue notes written (Notes)
-- [ ] No secrets exposed
+- [x] Task 1: PAT created with required scopes and stored securely
+- [x] Task 2: Self-hosted agent pool created (Screenshot 1)
+- [x] Task 3: Ubuntu VM provisioned and SSH verified (Screenshots 2–3)
+- [x] Task 4: Agent installed, registered, and running as a service (Screenshots 4–5)
+- [x] Task 5: Agent verified Online (Screenshot 6)
+- [x] Task 6: Test pipeline run successfully (Screenshot 7)
+- [x] Platform/org/pool details and issue notes written (Notes)
+- [x] No secrets exposed
 
 ---
 

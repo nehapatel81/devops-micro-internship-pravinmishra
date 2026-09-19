@@ -146,15 +146,15 @@ Your submission must include:
 
 # Completion Checklist
 
-- [ ] Task 1: Healthy baseline confirmed on both providers before starting (Screenshot 1)
-- [ ] Task 2: `CLAUDE.md` created with the workflow and safety rules (Screenshot 2)
-- [ ] Task 3: `pipeline-triage.sh` built with all five failure-category checks (Screenshot 3)
-- [ ] Task 4: Script run against the healthy pipeline showing a clean result (Screenshot 4)
-- [ ] Task 5: `/pipeline-triage` skill created and run successfully (Screenshots 5–6)
-- [ ] Task 6: Pipeline deliberately broken and correctly diagnosed (Screenshots 7–8)
-- [ ] Task 7: Fix applied, pushed, and recovery verified (Screenshots 9–10)
-- [ ] Reflection answer written (Notes)
-- [ ] No secrets or tokens exposed
+- [x] Task 1: Healthy baseline confirmed on both providers before starting (Screenshot 1)
+- [x] Task 2: `CLAUDE.md` created with the workflow and safety rules (Screenshot 2)
+- [x] Task 3: `pipeline-triage.sh` built with all five failure-category checks (Screenshot 3)
+- [x] Task 4: Script run against the healthy pipeline showing a clean result (Screenshot 4)
+- [x] Task 5: `/pipeline-triage` skill created and run successfully (Screenshots 5–6)
+- [x] Task 6: Pipeline deliberately broken and correctly diagnosed (Screenshots 7–8)
+- [x] Task 7: Fix applied, pushed, and recovery verified (Screenshots 9–10)
+- [x] Reflection answer written (Notes)
+- [x] No secrets or tokens exposed
 
 ---
 

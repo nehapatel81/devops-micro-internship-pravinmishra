@@ -152,15 +152,15 @@ Your submission must include:
 
 # Completion Checklist
 
-- [ ] Task 1: Azure resources confirmed and workspace created (Screenshot 1)
-- [ ] Task 2: `CLAUDE.md` created with project context and safety rules (Screenshot 2)
-- [ ] Task 3: Claude produced a read-only four-check plan before any script existed (Screenshot 3)
-- [ ] Task 4: Audit script built, syntax-checked, and executable (Screenshots 4–5)
-- [ ] Task 5: Baseline audit run and reviewed honestly (Screenshot 6)
-- [ ] Task 6: `/azure-audit` skill created with no `Write` permission and run successfully (Screenshots 7–8)
-- [ ] Task 7: A real finding fixed by you (not Claude) and re-verified as resolved (Screenshots 9–11)
-- [ ] Notes comparing this to the Week 6 AWS audit completed
-- [ ] No subscription IDs, tenant IDs, or credentials exposed
+- [x] Task 1: Azure resources confirmed and workspace created (Screenshot 1)
+- [x] Task 2: `CLAUDE.md` created with project context and safety rules (Screenshot 2)
+- [x] Task 3: Claude produced a read-only four-check plan before any script existed (Screenshot 3)
+- [x] Task 4: Audit script built, syntax-checked, and executable (Screenshots 4–5)
+- [x] Task 5: Baseline audit run and reviewed honestly (Screenshot 6)
+- [x] Task 6: `/azure-audit` skill created with no `Write` permission and run successfully (Screenshots 7–8)
+- [x] Task 7: A real finding fixed by you (not Claude) and re-verified as resolved (Screenshots 9–11)
+- [x] Notes comparing this to the Week 6 AWS audit completed
+- [x] No subscription IDs, tenant IDs, or credentials exposed
 
 ---
 

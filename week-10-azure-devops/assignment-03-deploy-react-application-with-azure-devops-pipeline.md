@@ -129,13 +129,13 @@ Add your screenshot here.
 
 # Completion Checklist
 
-- [ ] Task 1: React app imported into Azure Repos (Screenshot 1)
-- [ ] Task 2: New VM provisioned and Nginx configured (Screenshots 2–3)
-- [ ] Task 3: SSH Service Connection updated and validated (Screenshot 4)
-- [ ] Task 4: Multi-stage YAML pipeline authored (Screenshot 5)
-- [ ] Task 5: All four stages succeeded and app verified (Screenshots 6–8)
-- [ ] LinkedIn post published and URL submitted
-- [ ] No sensitive data exposed
+- [x] Task 1: React app imported into Azure Repos (Screenshot 1)
+- [x] Task 2: New VM provisioned and Nginx configured (Screenshots 2–3)
+- [x] Task 3: SSH Service Connection updated and validated (Screenshot 4)
+- [x] Task 4: Multi-stage YAML pipeline authored (Screenshot 5)
+- [x] Task 5: All four stages succeeded and app verified (Screenshots 6–8)
+- [x] LinkedIn post published and URL submitted
+- [x] No sensitive data exposed
 
 ---
 

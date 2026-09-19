@@ -190,9 +190,9 @@ Add your screenshot here.
 
 # Completion Checklist
 
-- [ ] Task 1: Bind-mounted persistent logs verified before and after container removal (Screenshots 1–10)
-- [ ] Task 2: Docker volume shared between frontend and backend verified (Screenshots 1–12)
-- [ ] No sensitive information exposed
+- [x] Task 1: Bind-mounted persistent logs verified before and after container removal (Screenshots 1–10)
+- [x] Task 2: Docker volume shared between frontend and backend verified (Screenshots 1–12)
+- [x] No sensitive information exposed
 
 ---
 

@@ -111,13 +111,13 @@ Write your answer here.
 
 # Completion Checklist
 
-- [ ] Task 1: Probed NGINX Deployment applied (Screenshot 1)
-- [ ] Task 2: NodePort Service created on 30080 (Screenshot 2)
-- [ ] Task 3: NodePort tested externally/internally (Screenshot 3)
-- [ ] Task 4: Environment-specific access method used (Screenshot 4)
-- [ ] Task 5: Selector broken and fixed (Screenshot 5)
-- [ ] Task 6: Pod churn tested and Service continuity confirmed (Screenshot 6)
-- [ ] Reflection notes written (Notes)
+- [x] Task 1: Probed NGINX Deployment applied (Screenshot 1)
+- [x] Task 2: NodePort Service created on 30080 (Screenshot 2)
+- [x] Task 3: NodePort tested externally/internally (Screenshot 3)
+- [x] Task 4: Environment-specific access method used (Screenshot 4)
+- [x] Task 5: Selector broken and fixed (Screenshot 5)
+- [x] Task 6: Pod churn tested and Service continuity confirmed (Screenshot 6)
+- [x] Reflection notes written (Notes)
 
 ---
 

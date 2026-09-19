@@ -287,33 +287,33 @@ Confirm that the following files are included in your assignment folder:
 
 # Completion Checklist
 
-- [ ] Task 1: `static-web` folder structure is complete
-- [ ] Task 2: Both servers are listed under the `[web]` group in `inventory.ini`
-- [ ] Task 2: Inventory graph shows `web1` and `web2`
-- [ ] Task 3: Ansible ping returns `SUCCESS` and `pong` for both servers
-- [ ] Task 4: `files/index.html` contains your full name
-- [ ] Task 5: `site.yml` contains three separate plays
-- [ ] Task 5: Play 1 installs, starts, and enables Nginx
-- [ ] Task 5: Play 2 deploys `index.html` using the `copy` module
-- [ ] Task 5: Nginx reload handler is included
-- [ ] Task 5: Play 3 verifies both web servers from the controller
-- [ ] Task 6: Playbook syntax check passes
-- [ ] Task 7: First playbook run completes with `unreachable=0` and `failed=0`
-- [ ] Task 7: URI verification returns HTTP `200` for both servers
-- [ ] Task 8: Second playbook run demonstrates idempotency
-- [ ] Task 8: Second run shows `changed=0` for both web servers
-- [ ] Task 9: Both `curl -I` commands return HTTP `200 OK`
-- [ ] Task 9: Website loads from Server 1
-- [ ] Task 9: Website loads from Server 2
-- [ ] Task 9: Full name is visible on both deployed websites
-- [ ] Task 10: `README.md` contains all required explanations
-- [ ] Screenshots 1–11 are included
-- [ ] `inventory.ini`, `site.yml`, and `README.md` are pasted as editable text
-- [ ] Both website URLs are included
-- [ ] Assignment questions are answered
-- [ ] LinkedIn post published
-- [ ] LinkedIn post URL added
-- [ ] No sensitive information is exposed
+- [x] Task 1: `static-web` folder structure is complete
+- [x] Task 2: Both servers are listed under the `[web]` group in `inventory.ini`
+- [x] Task 2: Inventory graph shows `web1` and `web2`
+- [x] Task 3: Ansible ping returns `SUCCESS` and `pong` for both servers
+- [x] Task 4: `files/index.html` contains your full name
+- [x] Task 5: `site.yml` contains three separate plays
+- [x] Task 5: Play 1 installs, starts, and enables Nginx
+- [x] Task 5: Play 2 deploys `index.html` using the `copy` module
+- [x] Task 5: Nginx reload handler is included
+- [x] Task 5: Play 3 verifies both web servers from the controller
+- [x] Task 6: Playbook syntax check passes
+- [x] Task 7: First playbook run completes with `unreachable=0` and `failed=0`
+- [x] Task 7: URI verification returns HTTP `200` for both servers
+- [x] Task 8: Second playbook run demonstrates idempotency
+- [x] Task 8: Second run shows `changed=0` for both web servers
+- [x] Task 9: Both `curl -I` commands return HTTP `200 OK`
+- [x] Task 9: Website loads from Server 1
+- [x] Task 9: Website loads from Server 2
+- [x] Task 9: Full name is visible on both deployed websites
+- [x] Task 10: `README.md` contains all required explanations
+- [x] Screenshots 1–11 are included
+- [x] `inventory.ini`, `site.yml`, and `README.md` are pasted as editable text
+- [x] Both website URLs are included
+- [x] Assignment questions are answered
+- [x] LinkedIn post published
+- [x] LinkedIn post URL added
+- [x] No sensitive information is exposed
 
 ---
 

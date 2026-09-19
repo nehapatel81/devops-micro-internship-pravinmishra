@@ -160,15 +160,15 @@ Add your screenshot here.
 
 # Completion Checklist
 
-- [ ] Task 1: Cloud VM provisioned with required networking (Screenshot 1)
-- [ ] Task 2: Docker installed via Cloud-Init (Screenshot 2)
-- [ ] Task 3: Docker installation verified (Screenshot 3)
-- [ ] Task 4: Application repository cloned (Screenshot 4)
-- [ ] Task 5: Dockerfile created (Screenshot 5)
-- [ ] Task 6: Docker image built (Screenshot 6)
-- [ ] Task 7: Container deployed and running (Screenshot 7)
-- [ ] Task 8: Website accessible via public IP (Screenshots 8–9)
-- [ ] No sensitive information exposed
+- [x] Task 1: Cloud VM provisioned with required networking (Screenshot 1)
+- [x] Task 2: Docker installed via Cloud-Init (Screenshot 2)
+- [x] Task 3: Docker installation verified (Screenshot 3)
+- [x] Task 4: Application repository cloned (Screenshot 4)
+- [x] Task 5: Dockerfile created (Screenshot 5)
+- [x] Task 6: Docker image built (Screenshot 6)
+- [x] Task 7: Container deployed and running (Screenshot 7)
+- [x] Task 8: Website accessible via public IP (Screenshots 8–9)
+- [x] No sensitive information exposed
 
 ---
 

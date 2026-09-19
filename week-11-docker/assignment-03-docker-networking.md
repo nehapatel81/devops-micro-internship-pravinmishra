@@ -284,11 +284,11 @@ Add your screenshot here.
 
 # Completion Checklist
 
-- [ ] Task 1: Standalone app on default bridge network deployed and verified (Screenshots 1–6)
-- [ ] Task 2: Custom bridge network with frontend/backend communication verified (Screenshots 1–9)
-- [ ] Task 3: Multi-tier app across two networks deployed and verified end to end (Screenshots 1–15)
-- [ ] Task 4: Host network mode deployment verified and cleaned up (Screenshots 1–5)
-- [ ] No sensitive information exposed
+- [x] Task 1: Standalone app on default bridge network deployed and verified (Screenshots 1–6)
+- [x] Task 2: Custom bridge network with frontend/backend communication verified (Screenshots 1–9)
+- [x] Task 3: Multi-tier app across two networks deployed and verified end to end (Screenshots 1–15)
+- [x] Task 4: Host network mode deployment verified and cleaned up (Screenshots 1–5)
+- [x] No sensitive information exposed
 
 ---
 

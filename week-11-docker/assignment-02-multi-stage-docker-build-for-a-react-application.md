@@ -142,13 +142,13 @@ Add your screenshot here.
 
 # Completion Checklist
 
-- [ ] Task 1: `.dockerignore` created (Screenshot 1)
-- [ ] Task 2: Single-stage image built and verified (Screenshots 2–3)
-- [ ] Task 3: Multi-stage image built and verified (Screenshots 4–5)
-- [ ] Task 4: Image sizes compared (Screenshot 6)
-- [ ] Task 5: Analysis written (Screenshot 7 & Notes)
-- [ ] Task 6: Optional production optimizations explored
-- [ ] No sensitive information exposed
+- [x] Task 1: `.dockerignore` created (Screenshot 1)
+- [x] Task 2: Single-stage image built and verified (Screenshots 2–3)
+- [x] Task 3: Multi-stage image built and verified (Screenshots 4–5)
+- [x] Task 4: Image sizes compared (Screenshot 6)
+- [x] Task 5: Analysis written (Screenshot 7 & Notes)
+- [x] Task 6: Optional production optimizations explored
+- [x] No sensitive information exposed
 
 ---
 

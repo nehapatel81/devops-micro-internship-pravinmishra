@@ -525,42 +525,42 @@ Confirm that the following files are included in your GitHub repository:
 
 # Completion Checklist
 
-- [ ] Confirmed a clean Terraform baseline
-- [ ] Created the required assignment workspace
-- [ ] Created or updated `CLAUDE.md`
-- [ ] Added project context and safety rules
-- [ ] Created `tf-drift-check.sh`
-- [ ] Added my full name to the report
-- [ ] Validated the Bash script
-- [ ] Made the script executable
-- [ ] Used `terraform plan -detailed-exitcode`
-- [ ] Used Terraform plan JSON
-- [ ] Used `jq` to inspect destructive actions
-- [ ] Used `jq` to inspect unsafe ingress
-- [ ] Confirmed the baseline returns `HEALTHY`
-- [ ] Created `/tf-drift-review`
-- [ ] Restricted the Skill to appropriate tools
-- [ ] Confirmed the Skill remains read-only
-- [ ] Confirmed the Skill never runs `terraform apply`
-- [ ] Confirmed the Skill never runs `terraform destroy`
-- [ ] Introduced a controlled detectable difference
-- [ ] Correctly identified whether it was true drift or a configuration change
-- [ ] Saved `drift-detected-report.txt`
-- [ ] Added the `PreToolUse` safety hook
-- [ ] Verified the hook blocks `terraform apply` when the report is `FAIL`
-- [ ] Reviewed the Terraform evidence before resolving the change
-- [ ] Performed any infrastructure-changing action manually
-- [ ] Ran the drift review again after resolution
-- [ ] Confirmed the final status is `HEALTHY`
-- [ ] Saved `resolved-report.txt`
-- [ ] Completed `drift-review-summary.md`
-- [ ] Mapped the workflow to `Gather --> Analyze --> Human Act --> Verify`
-- [ ] Included all 19 numbered screenshots
-- [ ] Answered all required questions
-- [ ] Published the required LinkedIn post
-- [ ] Added the LinkedIn post URL and screenshot
-- [ ] Included the GitHub repository/folder URL
-- [ ] Confirmed that no sensitive information is exposed
+- [x] Confirmed a clean Terraform baseline
+- [x] Created the required assignment workspace
+- [x] Created or updated `CLAUDE.md`
+- [x] Added project context and safety rules
+- [x] Created `tf-drift-check.sh`
+- [x] Added my full name to the report
+- [x] Validated the Bash script
+- [x] Made the script executable
+- [x] Used `terraform plan -detailed-exitcode`
+- [x] Used Terraform plan JSON
+- [x] Used `jq` to inspect destructive actions
+- [x] Used `jq` to inspect unsafe ingress
+- [x] Confirmed the baseline returns `HEALTHY`
+- [x] Created `/tf-drift-review`
+- [x] Restricted the Skill to appropriate tools
+- [x] Confirmed the Skill remains read-only
+- [x] Confirmed the Skill never runs `terraform apply`
+- [x] Confirmed the Skill never runs `terraform destroy`
+- [x] Introduced a controlled detectable difference
+- [x] Correctly identified whether it was true drift or a configuration change
+- [x] Saved `drift-detected-report.txt`
+- [x] Added the `PreToolUse` safety hook
+- [x] Verified the hook blocks `terraform apply` when the report is `FAIL`
+- [x] Reviewed the Terraform evidence before resolving the change
+- [x] Performed any infrastructure-changing action manually
+- [x] Ran the drift review again after resolution
+- [x] Confirmed the final status is `HEALTHY`
+- [x] Saved `resolved-report.txt`
+- [x] Completed `drift-review-summary.md`
+- [x] Mapped the workflow to `Gather --> Analyze --> Human Act --> Verify`
+- [x] Included all 19 numbered screenshots
+- [x] Answered all required questions
+- [x] Published the required LinkedIn post
+- [x] Added the LinkedIn post URL and screenshot
+- [x] Included the GitHub repository/folder URL
+- [x] Confirmed that no sensitive information is exposed
 
 ---
 

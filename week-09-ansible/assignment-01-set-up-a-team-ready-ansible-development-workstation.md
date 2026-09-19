@@ -208,35 +208,35 @@ Confirm that the following files are included in your assignment workspace:
 
 # Completion Checklist
 
-- [ ] Task 1: `ansible-onboarding` workspace created
-- [ ] Task 1: Git initialized on the `main` branch
-- [ ] Task 1: `.gitignore` created
-- [ ] Task 2: Python virtual environment created
-- [ ] Task 2: Virtual environment activated
-- [ ] Task 2: Ansible installed inside `.venv`
-- [ ] Task 2: `ansible-lint`, `yamllint`, and `pre-commit` installed
-- [ ] Task 2: `requirements.txt` created
-- [ ] Task 3: Required VS Code extensions installed
-- [ ] Task 3: VS Code uses the Python interpreter from `.venv`
-- [ ] Task 3: `.vscode/settings.json` created
-- [ ] Task 3: `.editorconfig` created
-- [ ] Task 4: `ansible.cfg` created
-- [ ] Task 4: Ansible loads `ansible.cfg` from the project directory
-- [ ] Task 5: ED25519 SSH key exists
-- [ ] Task 5: SSH private key has not been exposed
-- [ ] Task 5: SSH key loaded into the SSH agent
-- [ ] Task 5: `~/.ssh/config` contains the required settings
-- [ ] Task 5: `~/.ssh/known_hosts` exists
-- [ ] Task 6: Git identity configured correctly
-- [ ] Task 6: Pre-commit hooks installed
-- [ ] Task 7: `pre-commit run --all-files` completes successfully
-- [ ] Task 8: `README.md` contains your full name and workstation details
-- [ ] Task 8: “New Machine? Do This” checklist contains 10–12 items
-- [ ] All 12 required screenshots are included
-- [ ] Assignment questions are answered
-- [ ] No sensitive information is exposed
-- [ ] Google Doc is accessible
-- [ ] Google Doc link tested in an incognito or private browser window
+- [x] Task 1: `ansible-onboarding` workspace created
+- [x] Task 1: Git initialized on the `main` branch
+- [x] Task 1: `.gitignore` created
+- [x] Task 2: Python virtual environment created
+- [x] Task 2: Virtual environment activated
+- [x] Task 2: Ansible installed inside `.venv`
+- [x] Task 2: `ansible-lint`, `yamllint`, and `pre-commit` installed
+- [x] Task 2: `requirements.txt` created
+- [x] Task 3: Required VS Code extensions installed
+- [x] Task 3: VS Code uses the Python interpreter from `.venv`
+- [x] Task 3: `.vscode/settings.json` created
+- [x] Task 3: `.editorconfig` created
+- [x] Task 4: `ansible.cfg` created
+- [x] Task 4: Ansible loads `ansible.cfg` from the project directory
+- [x] Task 5: ED25519 SSH key exists
+- [x] Task 5: SSH private key has not been exposed
+- [x] Task 5: SSH key loaded into the SSH agent
+- [x] Task 5: `~/.ssh/config` contains the required settings
+- [x] Task 5: `~/.ssh/known_hosts` exists
+- [x] Task 6: Git identity configured correctly
+- [x] Task 6: Pre-commit hooks installed
+- [x] Task 7: `pre-commit run --all-files` completes successfully
+- [x] Task 8: `README.md` contains your full name and workstation details
+- [x] Task 8: “New Machine? Do This” checklist contains 10–12 items
+- [x] All 12 required screenshots are included
+- [x] Assignment questions are answered
+- [x] No sensitive information is exposed
+- [x] Google Doc is accessible
+- [x] Google Doc link tested in an incognito or private browser window
 
 ---
 

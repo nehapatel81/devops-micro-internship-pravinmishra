@@ -671,38 +671,38 @@ Confirm that the following files are included in your GitHub repository or assig
 
 # Completion Checklist
 
-- [ ] Task 1: Project folder layout created
-- [ ] Task 2: Terraform infrastructure provisioned
-- [ ] Task 3: SSH key-based access verified
-- [ ] Task 4: Ansible inventory and configuration created
-- [ ] Task 5: Main Ansible playbook created
-- [ ] Task 6: `common` role created
-- [ ] Task 7: `nginx` role created
-- [ ] Task 8: `epicbook` role created
-- [ ] Task 9: Group variables created
-- [ ] Task 10: Ansible playbook run completed
-- [ ] Task 11: EpicBook deployment verified
-- [ ] Terraform files created under only one cloud provider folder
-- [ ] One Ubuntu VM was created
-- [ ] One managed MySQL database was created
-- [ ] SSH port `22` is restricted to the controller public IP
-- [ ] HTTP port `80` is accessible
-- [ ] MySQL port `3306` is not publicly open
-- [ ] `ansible web -i inventory.ini -m ping` returns `SUCCESS`
-- [ ] `site.yml` calls the roles in the correct order
-- [ ] Database secrets are hidden or handled securely
-- [ ] Nginx is active
-- [ ] PM2 shows the EpicBook application running
-- [ ] EpicBook responds on port `8080`
-- [ ] Public URL loads in the browser
-- [ ] Cart API verification works
-- [ ] Playbook completes with `failed=0`
-- [ ] Screenshots 1–27 are included
-- [ ] Assignment questions are answered
-- [ ] LinkedIn post published
-- [ ] LinkedIn post URL added
-- [ ] No sensitive information is exposed
-- [ ] Google Doc is accessible
+- [x] Task 1: Project folder layout created
+- [x] Task 2: Terraform infrastructure provisioned
+- [x] Task 3: SSH key-based access verified
+- [x] Task 4: Ansible inventory and configuration created
+- [x] Task 5: Main Ansible playbook created
+- [x] Task 6: `common` role created
+- [x] Task 7: `nginx` role created
+- [x] Task 8: `epicbook` role created
+- [x] Task 9: Group variables created
+- [x] Task 10: Ansible playbook run completed
+- [x] Task 11: EpicBook deployment verified
+- [x] Terraform files created under only one cloud provider folder
+- [x] One Ubuntu VM was created
+- [x] One managed MySQL database was created
+- [x] SSH port `22` is restricted to the controller public IP
+- [x] HTTP port `80` is accessible
+- [x] MySQL port `3306` is not publicly open
+- [x] `ansible web -i inventory.ini -m ping` returns `SUCCESS`
+- [x] `site.yml` calls the roles in the correct order
+- [x] Database secrets are hidden or handled securely
+- [x] Nginx is active
+- [x] PM2 shows the EpicBook application running
+- [x] EpicBook responds on port `8080`
+- [x] Public URL loads in the browser
+- [x] Cart API verification works
+- [x] Playbook completes with `failed=0`
+- [x] Screenshots 1–27 are included
+- [x] Assignment questions are answered
+- [x] LinkedIn post published
+- [x] LinkedIn post URL added
+- [x] No sensitive information is exposed
+- [x] Google Doc is accessible
 
 ---
 

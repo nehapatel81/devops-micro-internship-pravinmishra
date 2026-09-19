@@ -382,37 +382,37 @@ Confirm that the following files are included in your assignment folder:
 
 # Completion Checklist
 
-- [ ] Task 1: `mini-finance` project structure created
-- [ ] Task 1: `.gitignore` created
-- [ ] Task 2: Terraform Azure infrastructure code created
-- [ ] Task 2: `Allow-SSH` rule configured for port `22`
-- [ ] Task 2: `Allow-HTTP` rule configured for port `80`
-- [ ] Task 2: NSG associated with the Network Interface
-- [ ] Task 3: `terraform fmt` completed
-- [ ] Task 3: `terraform init` completed
-- [ ] Task 3: `terraform validate` completed successfully
-- [ ] Task 3: `terraform apply` completed successfully
-- [ ] Task 3: `terraform output public_ip` displayed the VM public IP
-- [ ] Task 4: Passwordless SSH works from the Ansible controller
-- [ ] Task 5: `inventory.ini` created
-- [ ] Task 5: Ansible ping returns `SUCCESS` and `pong`
-- [ ] Task 6: `site.yml` contains three separate plays
-- [ ] Task 6: Play 1 installs Nginx, Git, and rsync
-- [ ] Task 6: Play 2 clones and deploys the Mini Finance website
-- [ ] Task 6: Play 3 verifies HTTP status code `200`
-- [ ] Task 7: Playbook syntax check passes
-- [ ] Task 7: Ansible playbook completes successfully
-- [ ] Task 7: Final recap shows `failed=0` and `unreachable=0`
-- [ ] Task 8: Mini Finance website loads in the browser
-- [ ] Task 8: Azure VM public IP is visible in the browser screenshot
-- [ ] Task 9: `README.md` completed
-- [ ] Screenshots 1–15 are included
-- [ ] `inventory.ini`, `site.yml`, and `README.md` are pasted as editable text
-- [ ] Assignment questions are answered
-- [ ] LinkedIn post published with Anyone visibility
-- [ ] LinkedIn post URL added
-- [ ] No sensitive information is exposed
-- [ ] Google Doc is accessible
+- [x] Task 1: `mini-finance` project structure created
+- [x] Task 1: `.gitignore` created
+- [x] Task 2: Terraform Azure infrastructure code created
+- [x] Task 2: `Allow-SSH` rule configured for port `22`
+- [x] Task 2: `Allow-HTTP` rule configured for port `80`
+- [x] Task 2: NSG associated with the Network Interface
+- [x] Task 3: `terraform fmt` completed
+- [x] Task 3: `terraform init` completed
+- [x] Task 3: `terraform validate` completed successfully
+- [x] Task 3: `terraform apply` completed successfully
+- [x] Task 3: `terraform output public_ip` displayed the VM public IP
+- [x] Task 4: Passwordless SSH works from the Ansible controller
+- [x] Task 5: `inventory.ini` created
+- [x] Task 5: Ansible ping returns `SUCCESS` and `pong`
+- [x] Task 6: `site.yml` contains three separate plays
+- [x] Task 6: Play 1 installs Nginx, Git, and rsync
+- [x] Task 6: Play 2 clones and deploys the Mini Finance website
+- [x] Task 6: Play 3 verifies HTTP status code `200`
+- [x] Task 7: Playbook syntax check passes
+- [x] Task 7: Ansible playbook completes successfully
+- [x] Task 7: Final recap shows `failed=0` and `unreachable=0`
+- [x] Task 8: Mini Finance website loads in the browser
+- [x] Task 8: Azure VM public IP is visible in the browser screenshot
+- [x] Task 9: `README.md` completed
+- [x] Screenshots 1–15 are included
+- [x] `inventory.ini`, `site.yml`, and `README.md` are pasted as editable text
+- [x] Assignment questions are answered
+- [x] LinkedIn post published with Anyone visibility
+- [x] LinkedIn post URL added
+- [x] No sensitive information is exposed
+- [x] Google Doc is accessible
 
 ---
 

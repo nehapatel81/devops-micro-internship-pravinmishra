@@ -224,19 +224,19 @@ Add your screenshot here.
 
 # Completion Checklist
 
-- [ ] Task 0: Architecture diagram and env/ports doc completed
-- [ ] Task 1: Multi-stage Dockerfiles and `.dockerignore` files created
-- [ ] Task 2: `docker-compose.yml` with isolated networks and volumes authored
-- [ ] Task 3: Healthchecks and `depends_on` conditions configured
-- [ ] Task 4: Reverse proxy routing and CORS configured
-- [ ] Task 5: Persistence and backup plan tested (Screenshot)
-- [ ] Task 6: Logging and observability configured (Screenshot)
-- [ ] Task 7: Cloud deployment live and verified (Screenshots)
-- [ ] Task 8: CI/CD pipeline built (optional)
-- [ ] Task 9: Reliability tests and runbook completed
-- [ ] LinkedIn post published and URL submitted
-- [ ] No sensitive information exposed
-- [ ] VM torn down after grading to avoid unexpected charges
+- [x] Task 0: Architecture diagram and env/ports doc completed
+- [x] Task 1: Multi-stage Dockerfiles and `.dockerignore` files created
+- [x] Task 2: `docker-compose.yml` with isolated networks and volumes authored
+- [x] Task 3: Healthchecks and `depends_on` conditions configured
+- [x] Task 4: Reverse proxy routing and CORS configured
+- [x] Task 5: Persistence and backup plan tested (Screenshot)
+- [x] Task 6: Logging and observability configured (Screenshot)
+- [x] Task 7: Cloud deployment live and verified (Screenshots)
+- [x] Task 8: CI/CD pipeline built (optional)
+- [x] Task 9: Reliability tests and runbook completed
+- [x] LinkedIn post published and URL submitted
+- [x] No sensitive information exposed
+- [x] VM torn down after grading to avoid unexpected charges
 
 ---
 

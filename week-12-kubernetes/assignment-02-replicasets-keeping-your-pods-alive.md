@@ -75,11 +75,11 @@ Add your screenshot here.
 
 # Completion Checklist
 
-- [ ] Task 1: Lab directory created (Screenshot 1)
-- [ ] Task 2: ReplicaSet created with three Pods (Screenshot 2)
-- [ ] Task 3: Auto-healing observed after deleting a Pod (Screenshot 3)
-- [ ] Task 4: Scaled to five Pods and inspected (Screenshot 4)
-- [ ] Understood why Deployments are preferred for rolling updates and rollbacks
+- [x] Task 1: Lab directory created (Screenshot 1)
+- [x] Task 2: ReplicaSet created with three Pods (Screenshot 2)
+- [x] Task 3: Auto-healing observed after deleting a Pod (Screenshot 3)
+- [x] Task 4: Scaled to five Pods and inspected (Screenshot 4)
+- [x] Understood why Deployments are preferred for rolling updates and rollbacks
 
 ---
 

@@ -111,13 +111,13 @@ Write your answer here.
 
 # Completion Checklist
 
-- [ ] Task 1: Probed NGINX Deployment applied (Screenshot 1)
-- [ ] Task 2: ClusterIP Service created and inspected (Screenshot 2)
-- [ ] Task 3: Service reached by DNS and ClusterIP (Screenshot 3)
-- [ ] Task 4: Selector broken and fixed (Screenshot 4)
-- [ ] Task 5: Readiness-aware routing proven (Screenshot 5)
-- [ ] Task 6: Verified / cleaned up (Screenshot 6)
-- [ ] Reflection notes written (Notes)
+- [x] Task 1: Probed NGINX Deployment applied (Screenshot 1)
+- [x] Task 2: ClusterIP Service created and inspected (Screenshot 2)
+- [x] Task 3: Service reached by DNS and ClusterIP (Screenshot 3)
+- [x] Task 4: Selector broken and fixed (Screenshot 4)
+- [x] Task 5: Readiness-aware routing proven (Screenshot 5)
+- [x] Task 6: Verified / cleaned up (Screenshot 6)
+- [x] Reflection notes written (Notes)
 
 ---
 

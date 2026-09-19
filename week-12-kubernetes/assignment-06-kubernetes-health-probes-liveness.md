@@ -97,12 +97,12 @@ Write your answer here.
 
 # Completion Checklist
 
-- [ ] Task 1: Baseline Deployment applied (Screenshot 1)
-- [ ] Task 2: Liveness probe added and verified (Screenshot 2)
-- [ ] Task 3: Liveness restart triggered and observed (Screenshot 3)
-- [ ] Task 4: Probe restored and stabilized (Screenshot 4)
-- [ ] Task 5: Tuning reviewed / cleanup completed (Screenshot 5)
-- [ ] Reflection notes written (Notes)
+- [x] Task 1: Baseline Deployment applied (Screenshot 1)
+- [x] Task 2: Liveness probe added and verified (Screenshot 2)
+- [x] Task 3: Liveness restart triggered and observed (Screenshot 3)
+- [x] Task 4: Probe restored and stabilized (Screenshot 4)
+- [x] Task 5: Tuning reviewed / cleanup completed (Screenshot 5)
+- [x] Reflection notes written (Notes)
 
 ---
 

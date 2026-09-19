@@ -97,12 +97,12 @@ Write your answer here.
 
 # Completion Checklist
 
-- [ ] Task 1: Lab directory created (Screenshot 1)
-- [ ] Task 2: Two-replica Deployment applied (Screenshot 2)
-- [ ] Task 3: RollingUpdate strategy configured (Screenshot 3)
-- [ ] Task 4: Image updated and rolled back (Screenshot 4)
-- [ ] Task 5: Scaled up and down (Screenshot 5)
-- [ ] Reflection notes written (Notes)
+- [x] Task 1: Lab directory created (Screenshot 1)
+- [x] Task 2: Two-replica Deployment applied (Screenshot 2)
+- [x] Task 3: RollingUpdate strategy configured (Screenshot 3)
+- [x] Task 4: Image updated and rolled back (Screenshot 4)
+- [x] Task 5: Scaled up and down (Screenshot 5)
+- [x] Reflection notes written (Notes)
 
 ---
 

@@ -97,12 +97,12 @@ Write your answer here.
 
 # Completion Checklist
 
-- [ ] Task 1: Lab directory created (Screenshot 1)
-- [ ] Task 2: Auto-healing observed (Screenshot 2)
-- [ ] Task 3: HPA-ready Deployment applied and Metrics Server verified (Screenshot 3)
-- [ ] Task 4: HPA created and inspected (Screenshot 4)
-- [ ] Task 5: CPU load generated and scaling observed (Screenshot 5, optional)
-- [ ] Reflection notes written (Notes)
+- [x] Task 1: Lab directory created (Screenshot 1)
+- [x] Task 2: Auto-healing observed (Screenshot 2)
+- [x] Task 3: HPA-ready Deployment applied and Metrics Server verified (Screenshot 3)
+- [x] Task 4: HPA created and inspected (Screenshot 4)
+- [x] Task 5: CPU load generated and scaling observed (Screenshot 5, optional)
+- [x] Reflection notes written (Notes)
 
 ---
 

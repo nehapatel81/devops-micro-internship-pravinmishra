@@ -109,13 +109,13 @@ Write your answer here.
 
 # Completion Checklist
 
-- [ ] Task 1: Repository imported into Azure Repos (Screenshot 1)
-- [ ] Task 2: VM provisioned and Nginx configured (Screenshots 2–3)
-- [ ] Task 3: SSH Service Connection created and validated (Screenshot 4)
-- [ ] Task 4: YAML pipeline authored (Screenshot 5)
-- [ ] Task 5: Pipeline run succeeded and site verified (Screenshots 6–7)
-- [ ] VM URL and issue notes written (Notes)
-- [ ] No passwords, tokens, or credentials exposed
+- [x] Task 1: Repository imported into Azure Repos (Screenshot 1)
+- [x] Task 2: VM provisioned and Nginx configured (Screenshots 2–3)
+- [x] Task 3: SSH Service Connection created and validated (Screenshot 4)
+- [x] Task 4: YAML pipeline authored (Screenshot 5)
+- [x] Task 5: Pipeline run succeeded and site verified (Screenshots 6–7)
+- [x] VM URL and issue notes written (Notes)
+- [x] No passwords, tokens, or credentials exposed
 
 ---
 

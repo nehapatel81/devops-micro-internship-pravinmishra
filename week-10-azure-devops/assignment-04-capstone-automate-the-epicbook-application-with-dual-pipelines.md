@@ -131,14 +131,14 @@ Add your screenshot here.
 
 # Completion Checklist
 
-- [ ] Task 1: `infra-epicbook` and `theepicbook` repositories prepared with clean separation (Screenshot 1)
-- [ ] Task 2: Azure Resource Manager SPN service connection created and validated (Screenshot 2)
-- [ ] Task 3: Infra Pipeline provisioned resources and produced outputs (Screenshots 3–4)
-- [ ] Task 4: App Pipeline configured servers and deployed EpicBook (Screenshots 5–6)
-- [ ] Task 5: End-to-end workflow verified, including MySQL connectivity (Screenshot 7)
-- [ ] Frontend URL and issue notes written (Notes)
-- [ ] LinkedIn post published and URL submitted
-- [ ] No secrets exposed
+- [x] Task 1: `infra-epicbook` and `theepicbook` repositories prepared with clean separation (Screenshot 1)
+- [x] Task 2: Azure Resource Manager SPN service connection created and validated (Screenshot 2)
+- [x] Task 3: Infra Pipeline provisioned resources and produced outputs (Screenshots 3–4)
+- [x] Task 4: App Pipeline configured servers and deployed EpicBook (Screenshots 5–6)
+- [x] Task 5: End-to-end workflow verified, including MySQL connectivity (Screenshot 7)
+- [x] Frontend URL and issue notes written (Notes)
+- [x] LinkedIn post published and URL submitted
+- [x] No secrets exposed
 
 ---
 

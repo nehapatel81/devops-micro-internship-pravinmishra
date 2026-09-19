@@ -99,11 +99,11 @@ Add your screenshot here.
 
 # Completion Checklist
 
-- [ ] Docker Hub account and repository created
-- [ ] Docker image tagged and pushed successfully (Screenshots 1–5)
-- [ ] Docker image pulled and container run successfully (Screenshots 6–7)
-- [ ] React application accessible in the browser (Screenshot 8)
-- [ ] No sensitive information exposed
+- [x] Docker Hub account and repository created
+- [x] Docker image tagged and pushed successfully (Screenshots 1–5)
+- [x] Docker image pulled and container run successfully (Screenshots 6–7)
+- [x] React application accessible in the browser (Screenshot 8)
+- [x] No sensitive information exposed
 
 ---
 
