@@ -141,7 +141,7 @@ Review the Terraform execution plan and provision the Azure infrastructure.
 
 Add a screenshot showing the Terraform plan summary and the proposed resources.
 
-Add your screenshot here.
+![SC](./screenshots/sc36.png)
 
 ---
 
@@ -149,7 +149,7 @@ Add your screenshot here.
 
 Add a screenshot showing successful `terraform apply` completion.
 
-Add your screenshot here.
+![SC](./screenshots/sc38.png)
 
 ---
 
@@ -157,7 +157,7 @@ Add your screenshot here.
 
 Add a screenshot showing the VM public IP address returned by `terraform output`.
 
-Add your screenshot here.
+![SC](./screenshots/sc39.png)
 
 ## VM Public IP Address
 
