@@ -295,7 +295,7 @@ Add a screenshot showing the Terraform plan summary and proposed resources.
 
 Add a screenshot showing successful `terraform apply` completion.
 
-![SC](./screenshots/sc52.png)
+![SC](./screenshots/sc62.png)
 
 ---
 
@@ -303,7 +303,7 @@ Add a screenshot showing successful `terraform apply` completion.
 
 Add a screenshot showing the EC2 public IP and RDS endpoint returned by `terraform output`.
 
-![SC](./screenshots/sc52.png)
+![SC](./screenshots/sc63.png)
 
 ---
 
@@ -319,7 +319,7 @@ Verify that the EC2 and RDS resources were successfully provisioned and confirm 
 
 Add a screenshot of AWS CLI showing the EC2 instance running.
 
-![SC](./screenshots/sc52.png)
+![SC](./screenshots/sc64.png)
 
 ---
 
@@ -327,7 +327,7 @@ Add a screenshot of AWS CLI showing the EC2 instance running.
 
 Add a screenshot of AWS CLI showing that RDS is available and not publicly accessible.
 
-![SC](./screenshots/sc52.png)
+![SC](./screenshots/sc65.png)
 
 ---
 
@@ -335,7 +335,7 @@ Add a screenshot of AWS CLI showing that RDS is available and not publicly acces
 
 Add a screenshot of the EC2 terminal showing the required software version checks and the active Nginx service.
 
-![SC](./screenshots/sc52.png)
+![SC](./screenshots/sc66.png)
 
 ---
 
@@ -353,7 +353,7 @@ Add a screenshot of the terminal showing a successful connection from EC2 to Ama
 
 Ensure that the database password is not visible.
 
-![SC](./screenshots/sc52.png)
+![SC](./screenshots/sc67.png)
 
 ---
 
@@ -361,7 +361,7 @@ Ensure that the database password is not visible.
 
 Add a screenshot of the terminal showing the EpicBook tables and imported data.
 
-![SC](./screenshots/sc52.png)
+![SC](./screenshots/sc68.png)
 
 ---
 
@@ -377,7 +377,7 @@ Install EpicBook dependencies, configure the application to use Amazon RDS, conf
 
 Add a screenshot of the terminal showing successful dependency installation and the `node_modules` directory.
 
-![SC](./screenshots/sc52.png)
+![SC](./screenshots/sc70.png)
 
 ---
 
@@ -385,7 +385,7 @@ Add a screenshot of the terminal showing successful dependency installation and 
 
 Add a screenshot of the terminal showing a successful Nginx configuration test and active service status.
 
-![SC](./screenshots/sc52.png)
+![SC](./screenshots/sc71.png)
 
 ---
 
