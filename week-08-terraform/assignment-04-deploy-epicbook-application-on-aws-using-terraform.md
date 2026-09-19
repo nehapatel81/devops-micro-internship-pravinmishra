@@ -247,7 +247,7 @@ Add a screenshot of VS Code showing the root `main.tf` with the Network, EC2, an
 
 Add a screenshot of VS Code showing values passed from the Network module to the EC2 and RDS modules.
 
-![SC](./screenshots/sc52.png)
+![SC](./screenshots/sc56.png)
 
 ---
 
@@ -255,7 +255,7 @@ Add a screenshot of VS Code showing values passed from the Network module to the
 
 Add a screenshot of VS Code showing the root EC2 public IP and RDS endpoint outputs.
 
-![SC](./screenshots/sc52.png)
+![SC](./screenshots/sc57.png)
 
 ---
 
@@ -271,7 +271,7 @@ Initialize the modular Terraform project, validate the configuration, review the
 
 Add a screenshot of the terminal showing successful `terraform init` output.
 
-![SC](./screenshots/sc52.png)
+![SC](./screenshots/sc59.png)
 
 ---
 
