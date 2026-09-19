@@ -93,7 +93,7 @@ Review the Terraform execution plan and provision the Azure resources.
 
 #### Screenshot 9 — Terraform output showing the public IP address of the VM
 
-![SC](./screenshots/sc8.png)
+![SC](./screenshots/sc12.png)
 
 ### Question
 
